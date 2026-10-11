@@ -1,0 +1,2001 @@
+invoice_id,client_name,client_age_months,past_late_payments,invoice_amount,payment_terms_days,industry,client_rating,paid_late
+INV-1000,"Morgan, Walker and Barnes",39,1,11739.43,15,Retail,3.4,0
+INV-1001,Peterson Ltd,11,3,14554.67,45,Tech,4.3,1
+INV-1002,Wilson-Little,38,0,14884.73,30,Tech,3.5,0
+INV-1003,Brooks LLC,42,0,14611.58,15,Consulting,1.9,0
+INV-1004,"Benton, Barron and Smith",47,3,12927.12,15,Consulting,3.7,1
+INV-1005,"Barton, Douglas and Fox",25,3,10326.65,60,Retail,2.8,1
+INV-1006,Martin-Barnett,7,2,5987.7,15,Retail,1.7,0
+INV-1007,Brown PLC,54,1,14549.85,30,Tech,4.1,1
+INV-1008,Lindsey LLC,34,3,8642.57,15,Consulting,3.1,1
+INV-1009,"Davis, Holmes and Giles",24,1,8231.9,30,Consulting,1.6,1
+INV-1010,Owens Ltd,15,0,431.42,60,Tech,2.7,0
+INV-1011,Mack-Salazar,11,0,10727.86,60,Consulting,4.2,0
+INV-1012,"Jones, Johns and Johnson",59,0,5505.29,45,Retail,1.5,0
+INV-1013,"Spears, Davis and Davidson",34,0,5688.11,30,Healthcare,3.7,0
+INV-1014,Stewart-Andersen,37,3,1969.99,45,Construction,3.9,1
+INV-1015,Fields-Patrick,14,2,576.2,30,Tech,1.4,1
+INV-1016,Garrett-Cook,32,1,7726.85,45,Retail,4.6,0
+INV-1017,"Duarte, Gould and Davis",43,0,14154.23,15,Healthcare,3.4,0
+INV-1018,"Miller, Wong and Bennett",51,0,13959.53,15,Construction,4.2,0
+INV-1019,Taylor-Miller,28,0,6364.35,45,Consulting,4.5,0
+INV-1020,"Matthews, Cooper and Phelps",58,0,5473.21,45,Retail,4.6,0
+INV-1021,Rivera Ltd,57,2,7759.06,60,Consulting,2.7,0
+INV-1022,Malone-Martinez,37,1,3813.06,15,Healthcare,1.7,0
+INV-1023,"Nelson, Martin and Clark",52,3,7559.28,15,Consulting,2.2,0
+INV-1024,Reyes-Richardson,49,3,689.15,45,Consulting,2.4,1
+INV-1025,"Jones, Hernandez and Prince",53,2,10147.61,45,Consulting,4.0,1
+INV-1026,Banks and Sons,59,1,7160.45,30,Retail,4.9,0
+INV-1027,"Padilla, Simmons and Calderon",16,2,803.47,15,Tech,3.4,0
+INV-1028,Noble-Bautista,59,0,10725.01,45,Retail,4.2,0
+INV-1029,Nguyen-Moore,41,3,5247.78,30,Retail,1.5,1
+INV-1030,"Eaton, Gamble and Jones",23,2,2789.33,60,Construction,4.9,0
+INV-1031,"Conley, Doyle and Duran",1,0,13478.79,60,Construction,4.6,0
+INV-1032,Smith-Carr,59,0,4327.3,30,Construction,3.8,0
+INV-1033,Clark-Sampson,54,2,2592.1,45,Tech,4.6,0
+INV-1034,"Rice, Green and Gallagher",20,1,14113.97,45,Retail,4.9,0
+INV-1035,James PLC,2,2,10740.25,30,Consulting,1.9,0
+INV-1036,Delgado and Sons,21,0,5623.74,30,Tech,4.0,0
+INV-1037,Matthews Ltd,48,0,5642.19,60,Healthcare,2.1,0
+INV-1038,"Boone, Henry and Morton",46,4,5381.16,45,Consulting,3.6,1
+INV-1039,Wilson-Miller,48,1,9752.99,30,Construction,1.7,0
+INV-1040,Frank-Bullock,28,1,13275.71,15,Tech,4.0,0
+INV-1041,Coleman-Owens,46,4,12796.82,15,Construction,2.3,1
+INV-1042,Harris-Robertson,18,3,1638.21,60,Construction,3.5,1
+INV-1043,"Wiley, Gonzales and Alexander",17,1,10691.88,15,Tech,3.2,0
+INV-1044,"Mitchell, Anderson and Cherry",42,5,12014.77,45,Tech,3.6,1
+INV-1045,Lee PLC,12,1,8767.2,60,Healthcare,2.8,0
+INV-1046,"Johnson, Ross and Richardson",22,1,14731.25,60,Tech,4.4,0
+INV-1047,Herrera PLC,42,2,7929.2,45,Tech,4.1,0
+INV-1048,Sampson-Vance,44,3,6288.04,30,Consulting,3.8,1
+INV-1049,"Torres, Hancock and Walters",19,1,575.19,45,Consulting,4.9,0
+INV-1050,"Weber, Calderon and Lopez",23,2,13745.16,60,Consulting,2.8,0
+INV-1051,Willis-Larson,25,1,14332.01,60,Construction,4.0,0
+INV-1052,Rios Group,5,2,5468.4,30,Tech,4.0,0
+INV-1053,"Mitchell, Cole and Russell",12,0,11497.79,60,Retail,4.2,0
+INV-1054,Miller-Hughes,36,0,6621.0,15,Retail,2.6,0
+INV-1055,"Macias, Oconnell and Ortega",34,1,14014.86,30,Tech,3.0,1
+INV-1056,"Rogers, Herring and Torres",56,1,1244.42,60,Consulting,3.6,0
+INV-1057,"Thomas, Dunn and Dean",27,3,12205.82,15,Healthcare,4.3,1
+INV-1058,Lee Ltd,12,3,1226.55,60,Consulting,1.4,1
+INV-1059,"Rivera, Gilmore and Johnson",8,2,4058.28,60,Consulting,3.0,0
+INV-1060,"Lewis, Gutierrez and Page",58,5,2826.11,45,Consulting,4.0,1
+INV-1061,"Rocha, Mcclain and Munoz",39,3,10261.7,15,Retail,4.0,0
+INV-1062,Acosta and Sons,35,0,13557.78,45,Construction,3.0,0
+INV-1063,Miller-Jones,59,0,991.58,15,Construction,4.8,0
+INV-1064,Mcclain-Greene,19,0,4925.84,60,Tech,4.8,0
+INV-1065,"Atkins, Rhodes and Martinez",47,0,1557.22,60,Retail,3.4,0
+INV-1066,Thomas-Adams,52,4,7517.42,45,Consulting,1.2,0
+INV-1067,Medina-Harvey,23,4,13029.66,30,Consulting,4.4,1
+INV-1068,Bryant Inc,46,1,12363.53,15,Construction,3.8,0
+INV-1069,"Chan, Huynh and Evans",7,3,11701.77,30,Tech,3.2,1
+INV-1070,"Sharp, Gutierrez and Long",27,1,6629.89,45,Tech,2.0,1
+INV-1071,Randolph Ltd,20,0,1939.39,15,Consulting,3.6,0
+INV-1072,"Lopez, Gordon and Sanchez",1,1,6123.3,45,Healthcare,2.9,0
+INV-1073,"King, Baker and Martinez",53,1,14554.21,15,Retail,1.2,0
+INV-1074,Ferguson and Sons,21,0,13884.72,45,Construction,4.7,0
+INV-1075,"Roberts, Miller and Cohen",57,3,9487.86,30,Retail,3.3,0
+INV-1076,"Grant, Jones and Andrews",16,3,6038.92,30,Consulting,1.4,0
+INV-1077,Wagner-Johnson,36,1,8838.11,15,Retail,1.3,0
+INV-1078,"Griffin, Gomez and Kennedy",41,1,678.28,60,Retail,2.1,1
+INV-1079,Fischer-Benson,48,0,13681.72,30,Tech,4.3,0
+INV-1080,Griffin-Sheppard,18,2,1424.68,60,Consulting,4.5,0
+INV-1081,Miranda-Smith,56,3,8993.13,30,Construction,2.5,1
+INV-1082,"Bates, Long and Watson",22,2,744.96,60,Tech,1.5,0
+INV-1083,Johnson-Aguilar,5,5,6868.05,30,Construction,1.5,1
+INV-1084,Walker and Sons,51,1,13197.67,60,Construction,4.0,0
+INV-1085,Deleon PLC,54,3,8501.88,60,Consulting,4.5,0
+INV-1086,"Avery, Miller and Lee",57,2,11813.09,60,Retail,3.6,0
+INV-1087,Skinner Inc,50,2,13581.55,30,Tech,2.4,0
+INV-1088,Steele-Rodriguez,38,2,7949.31,15,Construction,3.8,0
+INV-1089,Valentine-Shaw,17,1,6995.21,15,Consulting,4.9,0
+INV-1090,Clayton Group,53,1,8778.82,30,Consulting,2.4,0
+INV-1091,"Coleman, Lambert and Reynolds",16,0,2254.64,30,Retail,3.6,0
+INV-1092,Munoz-Mays,40,3,14602.03,15,Retail,3.4,1
+INV-1093,Blanchard LLC,18,1,1512.8,30,Retail,1.5,0
+INV-1094,Miller-Zavala,41,2,5085.47,15,Construction,2.3,0
+INV-1095,Shepherd-Prince,22,0,13128.96,15,Consulting,4.7,0
+INV-1096,"Stone, Gutierrez and Allen",17,2,2930.91,30,Construction,1.8,0
+INV-1097,Turner-Harris,26,3,2386.54,60,Tech,1.5,0
+INV-1098,Atkins LLC,3,3,6821.7,30,Consulting,3.1,0
+INV-1099,"Gonzales, Ross and Young",37,0,8546.68,60,Tech,4.4,0
+INV-1100,"Farmer, Savage and Powers",22,1,13379.8,60,Healthcare,3.4,0
+INV-1101,"Mccann, Brown and Cruz",45,2,8454.59,30,Retail,3.3,1
+INV-1102,Gomez-Smith,44,0,4399.88,15,Healthcare,2.5,0
+INV-1103,Mcintosh-Martin,56,1,14018.64,45,Healthcare,1.0,1
+INV-1104,"Williams, Brooks and Carr",21,0,3840.17,60,Healthcare,1.6,0
+INV-1105,"Turner, Serrano and Hopkins",31,0,12666.25,15,Retail,1.2,0
+INV-1106,"Black, Walters and Gonzalez",31,2,6088.26,15,Healthcare,4.9,0
+INV-1107,Rivas PLC,49,3,8118.54,45,Retail,2.9,1
+INV-1108,"Gordon, Higgins and Mack",45,1,4990.45,30,Tech,2.7,0
+INV-1109,"Bass, Diaz and Wheeler",47,2,7690.34,30,Consulting,4.7,0
+INV-1110,Edwards and Sons,13,1,5181.74,60,Tech,1.5,0
+INV-1111,Cruz-Griffith,1,0,240.12,60,Tech,1.5,0
+INV-1112,"Cole, Palmer and Thompson",15,1,5363.25,45,Healthcare,4.7,0
+INV-1113,Holloway-Romero,9,0,5812.58,30,Retail,4.7,0
+INV-1114,"Taylor, Franklin and Barnett",22,0,11766.41,60,Consulting,4.3,0
+INV-1115,"West, Roy and Sherman",35,0,12255.71,15,Retail,3.7,0
+INV-1116,"Santiago, Brown and Brown",26,2,10308.13,15,Retail,2.8,1
+INV-1117,Mcfarland-Adams,38,2,5459.36,30,Tech,2.6,0
+INV-1118,Choi-Brown,2,3,14109.52,60,Healthcare,3.5,0
+INV-1119,King Ltd,15,3,14965.85,60,Tech,4.0,1
+INV-1120,Peterson LLC,37,1,3227.26,60,Retail,3.9,0
+INV-1121,Cox Inc,54,1,12727.49,30,Healthcare,1.5,0
+INV-1122,"Moore, Harrison and Clark",56,2,6252.54,15,Healthcare,4.1,0
+INV-1123,Knight-Pratt,36,1,5316.3,45,Healthcare,1.7,0
+INV-1124,Thompson Inc,10,1,6469.23,45,Healthcare,2.2,0
+INV-1125,Smith PLC,40,2,13107.43,60,Tech,4.7,0
+INV-1126,Hartman-Neal,36,2,9840.23,30,Construction,4.1,0
+INV-1127,Caldwell-Fowler,51,4,14775.65,30,Retail,4.4,1
+INV-1128,Long Group,54,2,3565.46,15,Construction,3.4,1
+INV-1129,"Hernandez, King and Morse",10,1,5135.79,15,Retail,2.6,0
+INV-1130,"Cantrell, Craig and Gordon",25,3,13793.13,60,Consulting,3.3,1
+INV-1131,Lopez and Sons,52,2,8792.71,30,Retail,3.5,0
+INV-1132,Wood-Bennett,28,0,7824.57,15,Tech,4.9,0
+INV-1133,"Cook, Taylor and Scott",22,0,14953.74,15,Consulting,3.0,0
+INV-1134,Cooper-Guerrero,1,1,6516.48,15,Tech,4.2,0
+INV-1135,Mills PLC,49,0,7186.59,60,Retail,3.3,0
+INV-1136,"Hall, Keller and Martin",18,1,8009.19,30,Consulting,3.1,0
+INV-1137,Ward-Hensley,51,0,2892.54,15,Consulting,4.4,0
+INV-1138,"Hayes, Patton and Riley",39,1,13481.97,15,Healthcare,3.1,0
+INV-1139,Parker-Huff,3,1,491.72,45,Construction,1.4,0
+INV-1140,Peters-Fletcher,47,3,12118.66,30,Construction,5.0,1
+INV-1141,"Boyd, Nelson and King",16,2,4538.59,30,Construction,4.6,0
+INV-1142,Green PLC,7,3,13171.37,60,Tech,3.6,1
+INV-1143,Combs and Sons,5,1,5819.45,45,Healthcare,3.4,0
+INV-1144,Wood-Smith,12,2,5568.82,45,Retail,4.4,0
+INV-1145,Pope-Nguyen,30,3,532.55,15,Healthcare,2.1,1
+INV-1146,"Goodman, Russell and Hanson",40,2,9746.8,15,Retail,2.7,1
+INV-1147,Ramirez and Sons,6,1,8732.44,30,Consulting,2.1,0
+INV-1148,"Fowler, Mason and Yu",17,1,10859.0,45,Tech,1.4,0
+INV-1149,"Frye, Howard and Gutierrez",31,3,2795.49,45,Retail,4.7,0
+INV-1150,Johnson-Gregory,26,2,5437.3,30,Construction,4.8,0
+INV-1151,Alvarez-Ramos,36,1,8582.79,45,Tech,2.9,0
+INV-1152,Price Ltd,47,1,7359.57,60,Consulting,2.1,0
+INV-1153,Morgan-Torres,52,0,7546.22,45,Consulting,3.4,0
+INV-1154,"White, Hill and Johnson",34,2,5402.79,15,Consulting,2.7,1
+INV-1155,Reynolds-Thomas,25,1,12031.36,45,Retail,3.8,1
+INV-1156,Sherman PLC,30,0,1725.79,30,Construction,2.3,0
+INV-1157,Hurst Group,49,0,8220.13,15,Retail,4.5,0
+INV-1158,Wallace-Hansen,8,4,13569.78,30,Construction,3.6,1
+INV-1159,Fowler LLC,26,0,10642.51,45,Consulting,4.7,0
+INV-1160,"Garcia, Washington and Williams",23,2,1983.73,30,Construction,3.9,0
+INV-1161,Cruz-Young,59,4,12467.95,30,Construction,1.1,1
+INV-1162,Fischer-Morgan,31,1,7319.72,60,Construction,4.5,0
+INV-1163,Johnson-Flowers,23,0,4866.3,15,Retail,3.2,0
+INV-1164,"Drake, Davis and Malone",29,3,13174.65,60,Construction,2.7,1
+INV-1165,Cox-Turner,59,5,11554.39,15,Retail,2.6,1
+INV-1166,Mitchell Group,53,2,6094.65,45,Tech,1.4,1
+INV-1167,Wilkins Inc,1,1,5448.41,45,Tech,2.1,0
+INV-1168,"Harrington, Allen and Perez",4,2,13673.02,60,Consulting,1.2,1
+INV-1169,Pace Ltd,4,0,14259.43,60,Consulting,4.1,0
+INV-1170,"Gardner, Cook and Williams",43,6,1161.8,15,Retail,2.6,1
+INV-1171,"Scott, Bradford and Weaver",51,1,2812.61,15,Tech,1.9,0
+INV-1172,Ortiz LLC,49,4,7870.25,15,Construction,3.4,0
+INV-1173,"Wells, Reed and Gardner",35,2,12274.33,30,Healthcare,1.9,1
+INV-1174,Fox-Benton,56,1,13444.84,30,Retail,4.4,0
+INV-1175,Snyder LLC,59,0,13353.47,45,Construction,4.8,0
+INV-1176,Wilson LLC,12,0,5069.96,15,Construction,4.7,0
+INV-1177,Howard-Moore,15,0,10496.57,30,Tech,1.2,0
+INV-1178,"Robles, Gibson and Stone",18,0,3458.71,15,Construction,3.7,0
+INV-1179,"Sexton, Wilkerson and Holland",29,3,12994.49,60,Consulting,3.9,0
+INV-1180,"Fernandez, Krause and Cox",24,6,10266.08,30,Tech,3.5,1
+INV-1181,Lambert-Munoz,43,3,12335.21,30,Tech,1.9,1
+INV-1182,Moore-Mendoza,39,0,12305.91,60,Retail,4.3,0
+INV-1183,"Hale, Davis and Romero",32,0,5031.22,30,Construction,3.2,0
+INV-1184,Murray and Sons,40,1,8191.78,60,Tech,4.1,0
+INV-1185,"Rodriguez, Mendez and Brown",10,2,2856.56,45,Tech,4.0,0
+INV-1186,Howard-Rogers,22,2,4654.26,15,Healthcare,3.8,0
+INV-1187,Harding Ltd,1,0,1305.48,15,Healthcare,4.4,0
+INV-1188,White-Anderson,14,3,11422.3,30,Tech,1.1,1
+INV-1189,"Thornton, Barker and Vazquez",58,0,2552.29,60,Construction,2.9,0
+INV-1190,Rush-Haynes,4,1,2621.63,45,Tech,4.2,0
+INV-1191,"Murphy, Chen and Vargas",2,1,2143.76,30,Retail,4.5,0
+INV-1192,"Foster, Kaiser and Torres",44,0,11022.8,30,Healthcare,4.6,0
+INV-1193,Solis Inc,59,2,3353.95,45,Construction,1.1,1
+INV-1194,Taylor-Hernandez,25,2,8239.85,15,Construction,1.6,0
+INV-1195,Schwartz PLC,50,2,681.39,45,Consulting,4.7,0
+INV-1196,Rodriguez PLC,3,0,7039.04,60,Consulting,1.0,0
+INV-1197,Brown Group,20,1,7475.6,45,Retail,1.3,1
+INV-1198,Todd-Green,54,1,6612.05,15,Construction,4.9,0
+INV-1199,Sherman-Morales,30,1,9080.3,30,Consulting,2.2,0
+INV-1200,Fowler-Carter,45,5,1721.33,45,Retail,3.3,1
+INV-1201,Johnson Ltd,28,2,5031.63,15,Consulting,3.1,0
+INV-1202,"Schultz, Glass and Lawson",33,1,12402.81,60,Construction,2.4,0
+INV-1203,Dean-Gibson,15,0,2678.74,45,Healthcare,1.4,0
+INV-1204,Price PLC,11,0,13464.08,15,Healthcare,3.4,0
+INV-1205,"Nelson, Hernandez and Fields",41,4,12259.41,30,Construction,1.3,1
+INV-1206,"Lopez, Nguyen and Jimenez",20,3,803.16,15,Healthcare,1.7,1
+INV-1207,Faulkner-Stevenson,12,1,13102.4,15,Consulting,1.9,0
+INV-1208,Mcintosh-Stewart,55,3,846.19,30,Construction,1.6,1
+INV-1209,Wagner Inc,59,1,10267.38,60,Retail,1.3,0
+INV-1210,Williamson LLC,15,1,13050.43,45,Consulting,3.9,0
+INV-1211,Harmon-Anderson,4,3,7807.14,45,Retail,3.4,1
+INV-1212,Smith-Gilbert,58,4,4297.05,45,Consulting,3.4,1
+INV-1213,Brown-Gordon,15,1,6198.59,45,Healthcare,3.4,0
+INV-1214,Morgan-Hansen,42,2,12844.9,45,Healthcare,3.0,1
+INV-1215,"Hughes, Mccarty and Dominguez",47,3,9851.42,45,Consulting,2.2,1
+INV-1216,Lawrence-Hansen,28,1,5012.81,30,Tech,4.1,0
+INV-1217,White-Nguyen,3,1,6841.91,60,Healthcare,3.7,0
+INV-1218,"Flores, Rogers and Morales",41,1,9333.75,30,Consulting,3.8,0
+INV-1219,"Mann, Hudson and Arnold",57,1,8095.98,45,Healthcare,4.1,0
+INV-1220,Williams-Boyd,56,3,1856.41,15,Construction,2.1,1
+INV-1221,"Hunter, Mckee and Rice",20,0,9672.04,45,Tech,1.9,0
+INV-1222,Santos LLC,37,2,815.28,60,Consulting,1.6,1
+INV-1223,"Bailey, Gross and Perez",31,1,5271.27,45,Healthcare,3.1,0
+INV-1224,West Ltd,23,0,4757.36,60,Healthcare,3.8,0
+INV-1225,"Ballard, Mayer and Castro",50,0,11016.28,30,Consulting,1.6,0
+INV-1226,"Carson, Valdez and Baker",38,1,10450.86,60,Tech,4.4,0
+INV-1227,Scott-Werner,50,1,12996.21,15,Construction,4.1,0
+INV-1228,"Hill, Diaz and Smith",27,3,9951.5,45,Retail,2.6,0
+INV-1229,Gilbert-Stevenson,28,0,9153.32,30,Construction,2.3,0
+INV-1230,Esparza and Sons,33,3,11129.05,30,Tech,4.5,0
+INV-1231,Strickland Inc,38,3,13059.73,30,Retail,2.5,0
+INV-1232,Berger-Baxter,54,1,9527.09,15,Tech,3.4,0
+INV-1233,Miller-Smith,29,1,5724.13,60,Consulting,1.9,0
+INV-1234,"Lawrence, Nichols and Kennedy",26,1,9710.12,15,Healthcare,4.0,1
+INV-1235,Evans-Miller,8,2,5250.47,60,Consulting,2.5,0
+INV-1236,Hill-Smith,34,1,7255.09,30,Healthcare,2.6,1
+INV-1237,Moore-Jones,44,1,3097.51,60,Healthcare,1.0,0
+INV-1238,Hays and Sons,47,0,14328.97,30,Tech,3.6,0
+INV-1239,Harris-Ferrell,13,1,7390.9,15,Retail,2.0,0
+INV-1240,Edwards-Rodriguez,52,3,1526.47,60,Tech,3.9,1
+INV-1241,"Peterson, Ruiz and Nelson",26,0,2881.01,30,Consulting,3.7,0
+INV-1242,Nelson LLC,10,1,4570.12,60,Retail,4.2,0
+INV-1243,Kerr-Smith,54,1,9570.64,30,Retail,4.8,0
+INV-1244,"Barrett, Vaughn and Collins",55,2,11947.41,60,Tech,3.6,0
+INV-1245,Stewart-Hamilton,42,2,11751.78,60,Consulting,2.1,0
+INV-1246,Carlson Group,19,4,6474.38,45,Healthcare,1.6,1
+INV-1247,Smith and Sons,33,0,1616.58,60,Consulting,1.1,0
+INV-1248,Anthony-James,15,1,9641.82,60,Tech,2.0,0
+INV-1249,"Johnson, Shelton and Smith",25,1,10488.14,60,Healthcare,2.6,0
+INV-1250,Smith Ltd,54,2,5248.13,45,Tech,4.3,0
+INV-1251,Murray Inc,32,1,1467.74,45,Consulting,4.6,0
+INV-1252,"Anderson, Herrera and Wood",3,1,5284.7,60,Tech,3.5,0
+INV-1253,Webb-Scott,5,0,9674.49,45,Healthcare,2.1,0
+INV-1254,Ruiz and Sons,8,2,5128.43,15,Construction,3.7,1
+INV-1255,"Cook, Faulkner and Compton",30,1,1513.76,30,Construction,4.8,0
+INV-1256,Hoffman Group,29,1,8130.25,45,Construction,1.4,1
+INV-1257,"Foley, Ho and Gonzalez",17,2,5861.39,15,Tech,1.5,0
+INV-1258,"Gordon, Price and Nelson",51,0,14888.76,30,Tech,4.7,0
+INV-1259,Graham-Bryan,21,0,4004.3,60,Tech,4.2,0
+INV-1260,Moore-Mcdaniel,32,0,12425.8,30,Retail,4.1,0
+INV-1261,Robinson-James,2,1,3738.02,60,Healthcare,3.0,0
+INV-1262,Robles and Sons,3,1,9088.8,45,Consulting,3.1,0
+INV-1263,Morris-Shaw,22,1,7617.06,60,Healthcare,2.6,0
+INV-1264,Huynh Group,38,4,11892.45,15,Tech,2.2,1
+INV-1265,Anderson-Ball,2,0,3509.49,60,Healthcare,4.8,0
+INV-1266,Blackburn-Knight,18,2,12957.81,15,Consulting,4.7,1
+INV-1267,Strickland-Floyd,54,3,10061.34,60,Healthcare,1.5,1
+INV-1268,Cook Group,21,0,2200.46,15,Construction,4.9,0
+INV-1269,Green Inc,32,3,12801.44,45,Healthcare,1.0,1
+INV-1270,Wells-Garcia,43,2,1107.97,60,Consulting,4.1,0
+INV-1271,Perry-Butler,11,2,6568.99,30,Healthcare,1.7,0
+INV-1272,Bryant-Mitchell,21,0,4688.47,30,Construction,1.4,0
+INV-1273,Mueller-Wiggins,4,1,3643.15,60,Healthcare,1.9,0
+INV-1274,Lara and Sons,29,2,2134.51,15,Healthcare,4.5,0
+INV-1275,Diaz Group,7,2,5928.77,45,Healthcare,4.9,0
+INV-1276,Reyes-Hayes,55,1,484.05,30,Healthcare,2.0,0
+INV-1277,Day-Miller,39,1,12547.69,30,Consulting,3.5,0
+INV-1278,Murray-Lee,53,3,8309.8,15,Healthcare,2.8,0
+INV-1279,Haley-Rodriguez,52,1,12198.15,15,Retail,3.5,0
+INV-1280,Hester LLC,29,5,10384.39,60,Tech,2.8,1
+INV-1281,Nguyen PLC,58,1,12411.96,60,Tech,3.0,0
+INV-1282,Cook PLC,8,3,7872.44,15,Construction,1.6,1
+INV-1283,Bray-Jones,37,0,762.72,60,Construction,4.0,0
+INV-1284,"Meadows, Moses and Ramirez",1,0,1254.6,30,Healthcare,1.0,0
+INV-1285,Khan-Mitchell,11,4,8334.32,45,Construction,4.3,1
+INV-1286,Collins Ltd,8,1,1416.14,60,Construction,4.9,0
+INV-1287,Mills and Sons,25,2,3980.12,60,Construction,2.0,0
+INV-1288,Coleman-Le,41,2,14533.63,15,Healthcare,4.2,1
+INV-1289,"Webb, Bartlett and Stewart",31,2,847.29,15,Consulting,1.4,1
+INV-1290,Powell-Wilson,18,1,6594.74,15,Construction,2.8,0
+INV-1291,"Ross, Frey and Medina",30,3,14887.75,30,Retail,3.7,1
+INV-1292,Sims Ltd,30,3,11374.62,15,Retail,2.8,1
+INV-1293,Myers-Mays,7,0,997.1,30,Tech,2.3,0
+INV-1294,"Owens, Hoover and Leonard",22,2,2639.26,15,Consulting,1.5,1
+INV-1295,Vega-Whitney,31,1,5267.28,30,Tech,2.7,0
+INV-1296,Nguyen Ltd,37,2,8562.33,30,Healthcare,3.8,0
+INV-1297,Meyers LLC,37,0,7031.05,15,Consulting,1.0,0
+INV-1298,"Martin, Sosa and Wood",1,2,3070.52,30,Healthcare,4.5,0
+INV-1299,"Espinoza, Myers and Andrews",21,2,5459.69,45,Construction,4.1,1
+INV-1300,"Pugh, Lyons and Thomas",52,4,11293.27,30,Consulting,4.0,1
+INV-1301,Fowler-Vargas,31,3,6839.44,15,Tech,3.9,1
+INV-1302,Holt-Stevens,24,0,2239.78,45,Retail,3.7,0
+INV-1303,Irwin-Terry,17,2,1159.83,15,Construction,3.3,0
+INV-1304,Richardson-Gonzalez,55,1,7401.65,60,Healthcare,3.4,0
+INV-1305,"Palmer, Kelley and Williamson",19,1,1066.55,30,Retail,2.3,0
+INV-1306,Gonzalez-Stevens,30,1,12411.93,30,Retail,3.1,0
+INV-1307,"Khan, Campbell and Rivera",49,1,3465.06,45,Consulting,3.4,0
+INV-1308,Ramos Inc,59,2,2767.51,15,Consulting,3.6,0
+INV-1309,Duncan-Johnson,15,2,8663.71,15,Construction,3.4,0
+INV-1310,Butler-James,57,2,10563.73,60,Construction,3.3,1
+INV-1311,Rodriguez-Henderson,59,2,6558.92,15,Consulting,4.5,0
+INV-1312,"Oconnor, Jones and Rodgers",29,1,6640.67,45,Retail,4.7,0
+INV-1313,Knox Ltd,39,3,1047.75,60,Healthcare,1.9,1
+INV-1314,Mendoza and Sons,44,0,11320.35,15,Healthcare,3.6,0
+INV-1315,Owens-King,28,1,11849.47,45,Healthcare,4.9,0
+INV-1316,"Hensley, Thompson and Rose",16,3,7416.05,30,Healthcare,1.1,1
+INV-1317,Carney-Wilson,33,1,3704.41,30,Consulting,3.9,0
+INV-1318,"Santana, Walker and Wood",11,3,6398.14,45,Consulting,2.0,1
+INV-1319,"Randolph, Williams and Rodriguez",26,0,5206.29,60,Healthcare,2.2,0
+INV-1320,Boyle PLC,21,1,1888.62,60,Consulting,1.6,0
+INV-1321,Wilcox-Jackson,7,3,6178.87,45,Construction,3.2,0
+INV-1322,Hernandez-Evans,39,2,6982.85,30,Retail,2.9,0
+INV-1323,"Parker, Dunn and Mendoza",34,3,11847.16,45,Healthcare,1.4,1
+INV-1324,"Hunter, Christian and Crawford",59,1,11836.92,30,Healthcare,1.8,0
+INV-1325,"Scott, Barrett and Chen",4,2,13191.89,60,Construction,4.5,0
+INV-1326,Sparks LLC,28,2,11310.8,15,Healthcare,3.2,0
+INV-1327,Pollard LLC,3,3,9920.35,45,Tech,4.3,1
+INV-1328,Herman-Nicholson,50,0,6727.87,60,Tech,1.8,0
+INV-1329,Griffith Inc,37,2,13743.33,45,Construction,3.1,0
+INV-1330,"Mann, Miller and Mitchell",42,2,9279.4,45,Construction,2.5,1
+INV-1331,"Pena, Smith and Harris",55,0,13431.05,45,Consulting,3.6,0
+INV-1332,Rhodes LLC,43,3,1941.13,15,Consulting,4.0,0
+INV-1333,Hill Group,30,1,13252.53,30,Retail,2.7,0
+INV-1334,Gaines Ltd,55,0,10365.54,30,Healthcare,1.4,0
+INV-1335,"Campbell, Nguyen and Harrison",35,0,12901.02,60,Consulting,4.3,0
+INV-1336,Arias Ltd,50,0,11441.82,30,Healthcare,5.0,0
+INV-1337,Donaldson-Cain,9,1,12458.09,60,Healthcare,2.3,0
+INV-1338,Mcclure Inc,26,1,1490.26,15,Retail,3.9,0
+INV-1339,Farrell-Anderson,51,2,9389.74,45,Tech,2.4,0
+INV-1340,"Parsons, Davila and Chapman",5,2,660.51,60,Tech,4.0,0
+INV-1341,Cruz-Diaz,56,0,2788.25,45,Consulting,4.4,0
+INV-1342,Martin-Rodriguez,1,2,10473.43,45,Healthcare,3.1,0
+INV-1343,"Taylor, Walker and Carson",35,3,3644.89,45,Healthcare,4.2,0
+INV-1344,Kaufman-Mayer,13,3,2702.4,45,Construction,2.6,0
+INV-1345,Morgan PLC,53,1,14656.64,60,Construction,1.4,0
+INV-1346,"Keith, Rivera and Frank",20,0,6437.37,45,Construction,1.1,0
+INV-1347,Trujillo-Hill,28,0,14449.59,30,Retail,3.9,0
+INV-1348,Christian Group,59,2,6857.66,30,Construction,1.9,0
+INV-1349,Barnes Inc,14,1,4638.8,15,Consulting,4.0,0
+INV-1350,Williams-Kim,4,0,13183.14,30,Tech,4.5,0
+INV-1351,Harris-Young,56,0,1368.74,30,Healthcare,2.0,0
+INV-1352,Harris LLC,49,1,4163.09,45,Consulting,4.2,1
+INV-1353,"Matthews, Richards and Schwartz",48,2,1589.09,45,Retail,4.6,0
+INV-1354,Wilson Ltd,4,1,14346.2,30,Construction,1.1,0
+INV-1355,Francis and Sons,54,2,13409.34,30,Construction,2.8,0
+INV-1356,"Mcgee, Thompson and Gill",40,3,10211.11,30,Construction,1.5,1
+INV-1357,Roberts-Rodriguez,3,4,9584.74,15,Consulting,1.3,1
+INV-1358,Lindsey-Kirby,25,0,788.54,30,Construction,3.4,0
+INV-1359,Torres-Torres,42,2,3102.25,15,Retail,3.4,0
+INV-1360,Serrano Inc,45,2,12841.21,45,Tech,1.2,1
+INV-1361,Long Ltd,33,2,7787.48,60,Retail,2.2,0
+INV-1362,"Livingston, Kline and Bean",41,1,9332.58,15,Consulting,1.5,0
+INV-1363,Perez-Harrison,41,0,10196.22,45,Healthcare,1.2,0
+INV-1364,Allen-Watts,11,0,4266.03,60,Healthcare,2.6,0
+INV-1365,Santos Ltd,8,1,10184.2,45,Tech,2.2,0
+INV-1366,Taylor PLC,26,2,9618.74,15,Construction,1.2,1
+INV-1367,Weaver Group,2,3,9025.56,60,Retail,3.2,1
+INV-1368,Brown and Sons,49,0,1386.66,15,Healthcare,2.4,0
+INV-1369,Walls LLC,41,3,2255.3,60,Retail,1.5,1
+INV-1370,"Kent, Duffy and Wood",39,2,13556.31,15,Tech,1.3,0
+INV-1371,Archer-Edwards,17,2,1449.01,30,Consulting,2.6,0
+INV-1372,Daniel Group,37,0,8467.91,45,Retail,2.4,0
+INV-1373,Cobb-Carlson,28,2,1348.7,30,Retail,3.2,1
+INV-1374,Phillips-Wright,38,4,13766.2,60,Consulting,2.7,1
+INV-1375,"Fox, Davis and Hanna",58,1,6016.02,30,Consulting,3.1,0
+INV-1376,Ramsey and Sons,34,0,6571.83,60,Healthcare,1.6,0
+INV-1377,Mcfarland Group,20,1,5807.87,60,Construction,1.0,0
+INV-1378,Vargas Ltd,47,0,6262.51,60,Construction,2.2,0
+INV-1379,Dixon-Becker,34,3,2676.92,15,Consulting,4.9,1
+INV-1380,"Parks, Sherman and Decker",30,0,7680.74,15,Tech,4.9,0
+INV-1381,"Sanchez, Bowen and Maldonado",54,2,4835.45,30,Construction,1.6,0
+INV-1382,"Beck, Meza and Gray",53,2,14347.6,15,Tech,2.3,1
+INV-1383,Rich PLC,9,3,5905.58,30,Tech,2.4,1
+INV-1384,"Williams, Baird and Robinson",4,3,3854.23,15,Tech,4.4,1
+INV-1385,Le PLC,45,0,1053.18,15,Healthcare,2.4,0
+INV-1386,Wiley-Chandler,44,1,8263.45,60,Consulting,1.7,0
+INV-1387,"Lopez, Hunt and Johnson",36,3,8626.78,60,Construction,3.5,1
+INV-1388,Morton Group,37,1,12817.86,15,Tech,3.8,1
+INV-1389,Melton-Peters,54,2,11899.54,45,Construction,1.5,1
+INV-1390,"Morris, Roberts and Mcpherson",17,2,14550.19,60,Retail,4.8,0
+INV-1391,Miller-Woods,52,2,4429.6,30,Construction,1.8,0
+INV-1392,Acosta-Smith,24,3,10940.6,30,Healthcare,4.6,0
+INV-1393,Frank Ltd,47,3,1817.11,15,Consulting,4.4,0
+INV-1394,Hunt-Russell,17,1,3757.66,30,Tech,2.2,0
+INV-1395,"Lynch, Parker and Rhodes",22,3,4631.05,45,Tech,2.4,1
+INV-1396,"Brock, Fleming and Stevens",2,2,11942.23,15,Retail,5.0,0
+INV-1397,"Mcdowell, Underwood and Byrd",37,1,11350.73,30,Construction,4.1,0
+INV-1398,Lester-Rivera,9,3,7416.89,45,Healthcare,1.3,0
+INV-1399,"Collier, Blankenship and Brown",38,1,9554.93,15,Healthcare,3.3,0
+INV-1400,"Schneider, Joseph and Taylor",32,0,14335.71,45,Healthcare,3.1,0
+INV-1401,Vance PLC,55,1,7278.25,45,Consulting,1.6,0
+INV-1402,"Miller, Miranda and Sutton",26,1,3639.29,60,Healthcare,2.1,0
+INV-1403,Fuller-Villarreal,29,3,698.3,15,Consulting,1.9,1
+INV-1404,Kelly-Johnson,19,1,13352.15,15,Healthcare,3.0,1
+INV-1405,Kim Inc,8,2,7054.96,45,Consulting,1.9,0
+INV-1406,Kim Inc,53,3,11675.12,45,Retail,2.1,0
+INV-1407,Lewis-Jones,18,2,6156.21,15,Tech,1.4,0
+INV-1408,Hayden-Cox,49,1,4287.31,15,Construction,3.8,0
+INV-1409,Mayer-Barnett,11,1,8561.77,15,Tech,4.5,0
+INV-1410,Stuart-Burns,4,4,14468.36,60,Consulting,1.4,1
+INV-1411,Thomas-Stewart,33,3,3962.62,60,Construction,4.5,1
+INV-1412,Osborne and Sons,37,4,1759.4,30,Consulting,4.1,1
+INV-1413,Barber-Vaughan,37,1,13014.14,60,Healthcare,2.9,0
+INV-1414,Williams Group,48,0,5656.87,15,Healthcare,2.5,0
+INV-1415,"Hogan, Stevenson and Miller",31,3,9786.15,45,Healthcare,4.2,1
+INV-1416,Clark Group,23,1,2221.69,45,Construction,3.6,0
+INV-1417,Stanley-Garcia,44,0,10296.47,15,Tech,2.9,0
+INV-1418,Hoffman Group,1,2,1059.76,45,Healthcare,1.4,0
+INV-1419,Dickson Ltd,53,1,13683.82,60,Construction,4.4,0
+INV-1420,Ingram PLC,17,0,6321.91,60,Consulting,3.0,0
+INV-1421,"Mooney, Lopez and Hernandez",54,1,13189.18,15,Healthcare,1.2,0
+INV-1422,"Lyons, Cuevas and Morgan",26,1,11655.07,15,Construction,4.1,0
+INV-1423,Miller-Rojas,27,1,5862.19,45,Construction,2.5,0
+INV-1424,Terrell-Wiggins,37,1,4540.97,15,Healthcare,4.1,0
+INV-1425,Cline LLC,12,0,4637.05,15,Consulting,3.6,0
+INV-1426,"Stone, Bright and Adams",7,4,4508.93,60,Healthcare,1.8,1
+INV-1427,Johnston-Kramer,34,2,1056.1,15,Tech,4.8,0
+INV-1428,Howard PLC,9,1,9834.17,45,Consulting,3.6,0
+INV-1429,Hodges-Sullivan,17,1,2283.88,60,Healthcare,3.5,0
+INV-1430,"Cordova, Hopkins and Mills",10,1,14728.47,15,Tech,3.1,0
+INV-1431,Nelson LLC,47,2,13374.09,45,Consulting,3.8,1
+INV-1432,"Myers, Lowe and Carpenter",50,3,859.54,30,Construction,2.7,1
+INV-1433,"Anderson, Peterson and Tate",32,2,4265.62,60,Healthcare,4.2,0
+INV-1434,"Beck, Dominguez and Evans",18,1,6987.25,15,Retail,3.2,0
+INV-1435,Jenkins LLC,45,0,12686.02,30,Tech,4.9,0
+INV-1436,Drake and Sons,13,1,9954.88,45,Consulting,1.4,0
+INV-1437,"Klein, Woods and King",56,3,6667.54,15,Consulting,3.4,1
+INV-1438,Simmons Group,55,0,392.84,60,Retail,1.1,0
+INV-1439,Frank Group,34,4,12842.48,30,Retail,4.1,1
+INV-1440,Hendricks LLC,36,1,10065.69,60,Retail,1.7,1
+INV-1441,Torres Ltd,22,3,8369.46,30,Healthcare,4.2,1
+INV-1442,"Porter, Washington and Miller",21,0,4960.72,45,Consulting,4.4,0
+INV-1443,Montoya-Robinson,37,1,13440.71,45,Healthcare,1.0,0
+INV-1444,Ballard LLC,36,1,13809.06,60,Healthcare,5.0,0
+INV-1445,Ramos PLC,53,0,1054.0,30,Healthcare,2.8,0
+INV-1446,Berry LLC,26,2,8548.3,30,Healthcare,2.4,0
+INV-1447,Garcia-Tate,58,2,12629.28,30,Consulting,4.0,1
+INV-1448,Ramirez-Marshall,5,0,2793.28,30,Retail,4.5,0
+INV-1449,Scott PLC,51,1,12626.96,45,Healthcare,1.6,1
+INV-1450,Marshall and Sons,7,5,7563.59,45,Consulting,1.8,1
+INV-1451,Gonzalez and Sons,19,1,9613.43,45,Retail,2.5,0
+INV-1452,Spencer-Hall,58,2,12201.0,45,Construction,4.3,1
+INV-1453,"Cole, Johnson and Lawson",24,2,7056.75,60,Tech,1.2,0
+INV-1454,Peterson PLC,52,1,2092.43,60,Consulting,4.1,0
+INV-1455,Norris LLC,10,0,3212.96,60,Construction,1.0,0
+INV-1456,"Robinson, Davis and Odom",20,1,10994.3,45,Consulting,4.9,0
+INV-1457,"Thompson, Rhodes and Pham",47,2,13461.4,60,Healthcare,4.3,0
+INV-1458,Kelly-Weber,48,1,5689.93,45,Tech,4.6,0
+INV-1459,Clements-Roberts,21,0,5834.21,30,Consulting,2.7,0
+INV-1460,Sanchez-Campos,42,1,11753.35,60,Tech,3.3,0
+INV-1461,Nicholson-Taylor,52,1,8489.36,60,Retail,4.1,0
+INV-1462,Holland-Cox,25,0,14591.82,45,Healthcare,2.8,0
+INV-1463,Ryan Ltd,39,3,12953.03,60,Healthcare,2.1,1
+INV-1464,Wood-Miranda,59,0,2304.12,30,Healthcare,1.9,0
+INV-1465,Jennings Inc,17,4,5831.66,15,Tech,1.7,1
+INV-1466,"Brooks, Parker and Black",32,2,11776.13,45,Retail,1.5,1
+INV-1467,Avila-Harris,34,1,10632.09,60,Retail,4.3,0
+INV-1468,Fuller LLC,57,2,4770.75,60,Retail,2.9,0
+INV-1469,"Martin, Warner and Campbell",25,0,4784.86,30,Healthcare,2.2,0
+INV-1470,Hudson-King,56,2,4830.37,30,Retail,4.7,0
+INV-1471,"Martinez, Orr and Jackson",8,0,8323.11,60,Construction,2.2,0
+INV-1472,Chavez Ltd,11,0,6292.5,45,Consulting,4.7,0
+INV-1473,"Williams, Hickman and Campos",5,0,11799.65,60,Retail,2.1,0
+INV-1474,Myers-Hickman,48,2,3239.94,45,Consulting,2.5,0
+INV-1475,"Mckay, Parker and Cooper",23,2,4312.22,60,Construction,2.1,0
+INV-1476,Hernandez and Sons,10,1,6861.72,60,Consulting,4.9,0
+INV-1477,"Taylor, Graves and White",28,2,6456.38,15,Consulting,2.4,0
+INV-1478,Kennedy Ltd,12,0,9161.14,15,Tech,3.1,0
+INV-1479,Jones-Gonzalez,24,3,1318.64,45,Tech,4.8,1
+INV-1480,Edwards-Cruz,27,2,1563.01,15,Healthcare,3.2,1
+INV-1481,Figueroa-Carr,6,1,10658.12,15,Retail,3.4,0
+INV-1482,"Hughes, Hanson and Chapman",41,1,229.87,60,Tech,1.7,0
+INV-1483,"Mason, Sexton and Mason",53,3,8896.27,45,Retail,3.8,0
+INV-1484,Gentry LLC,25,0,9486.8,15,Construction,2.5,0
+INV-1485,Brown-Jones,19,3,10152.42,15,Construction,4.9,1
+INV-1486,"Reid, Hernandez and Cantu",17,2,13372.84,45,Construction,1.3,1
+INV-1487,Floyd-Wells,4,2,8923.92,60,Tech,3.5,0
+INV-1488,Gilmore and Sons,57,2,9879.11,30,Consulting,4.3,0
+INV-1489,Reid and Sons,46,1,1125.39,60,Consulting,2.8,0
+INV-1490,Campbell PLC,3,0,9037.02,30,Tech,3.4,0
+INV-1491,Wells-Serrano,18,4,9328.4,30,Retail,4.0,1
+INV-1492,"Bond, Peterson and Warner",56,2,6526.94,60,Consulting,1.8,0
+INV-1493,Martin Inc,28,2,11853.13,30,Healthcare,2.6,1
+INV-1494,Chandler Ltd,58,1,6528.5,30,Tech,2.8,0
+INV-1495,"Harris, Miranda and Scott",28,1,11819.45,60,Construction,3.4,0
+INV-1496,"Poole, Bryant and Smith",13,1,1031.41,60,Construction,3.0,0
+INV-1497,Robinson-Mcneil,50,2,7843.08,15,Healthcare,4.1,1
+INV-1498,"Anderson, Soto and Riley",28,4,4479.97,45,Consulting,2.2,1
+INV-1499,Medina LLC,23,1,1334.21,30,Retail,4.5,0
+INV-1500,Robinson-Henderson,45,3,5445.49,60,Construction,3.0,1
+INV-1501,"Kennedy, Pearson and Wolfe",51,2,11958.39,45,Healthcare,4.5,0
+INV-1502,Rios-Martinez,12,3,2573.41,45,Healthcare,3.7,1
+INV-1503,"Keller, Zimmerman and Bauer",47,1,11161.27,45,Tech,4.5,0
+INV-1504,Contreras-Johnson,37,2,1436.6,60,Healthcare,1.1,0
+INV-1505,Holder LLC,51,0,7884.52,15,Tech,3.4,0
+INV-1506,Mejia Group,14,0,3807.2,60,Consulting,2.1,0
+INV-1507,Miller and Sons,24,2,6548.38,45,Consulting,3.2,0
+INV-1508,"Clarke, Harris and Morse",10,2,5047.77,45,Construction,3.2,0
+INV-1509,Rodriguez Ltd,47,0,9163.44,15,Healthcare,1.5,0
+INV-1510,"Garrett, Phillips and Neal",29,2,1891.43,45,Retail,4.1,1
+INV-1511,Walker-Wilson,39,1,11932.82,15,Consulting,1.3,0
+INV-1512,Flores-Neal,3,3,347.69,60,Construction,3.9,1
+INV-1513,"Arnold, Cannon and Ruiz",57,1,2085.32,30,Consulting,2.1,0
+INV-1514,Becker and Sons,7,1,12853.62,45,Tech,4.5,0
+INV-1515,Woods-Bell,30,1,4357.05,30,Consulting,1.8,0
+INV-1516,"Vargas, Orr and Hayes",8,2,14527.37,45,Tech,1.3,0
+INV-1517,Phelps-Parker,2,2,14149.68,15,Retail,1.2,1
+INV-1518,Vasquez-Fleming,3,0,5387.7,45,Healthcare,2.5,0
+INV-1519,"Gomez, Nolan and Ward",59,1,5379.19,15,Consulting,4.7,0
+INV-1520,Chambers LLC,30,0,9992.93,45,Tech,2.9,0
+INV-1521,Chen-Parker,25,2,7911.88,15,Construction,2.4,1
+INV-1522,Page-Miller,32,1,10133.13,45,Healthcare,3.5,0
+INV-1523,Burnett Inc,9,1,2548.45,30,Tech,2.0,0
+INV-1524,Fletcher-Ryan,31,3,9559.39,30,Consulting,1.6,1
+INV-1525,Townsend and Sons,54,2,9076.62,45,Consulting,4.4,0
+INV-1526,"Freeman, Dyer and Lewis",30,2,1339.18,45,Tech,3.8,1
+INV-1527,"Watson, Wallace and Guerrero",18,3,9624.07,45,Healthcare,4.0,0
+INV-1528,"Nicholson, Mathews and Jackson",1,2,4321.17,45,Construction,3.6,0
+INV-1529,"Hawkins, Baker and Haney",32,1,1508.1,15,Healthcare,3.8,0
+INV-1530,Reyes Ltd,12,0,3415.02,15,Tech,2.9,0
+INV-1531,Johnson LLC,32,1,776.89,30,Healthcare,3.7,0
+INV-1532,"Bates, Fox and Henderson",6,1,7810.18,45,Retail,3.9,1
+INV-1533,"Smith, Cunningham and Martinez",18,1,8735.2,60,Retail,1.3,0
+INV-1534,Smith Ltd,48,5,7094.22,45,Consulting,3.3,1
+INV-1535,Green Ltd,35,0,5534.32,15,Healthcare,4.1,0
+INV-1536,Wilkins LLC,11,0,1387.29,45,Construction,2.2,0
+INV-1537,"Daniel, Whitehead and Day",36,0,12589.37,60,Construction,3.5,0
+INV-1538,Garcia Inc,35,2,5980.79,15,Tech,1.3,1
+INV-1539,Kelly-Ramos,2,2,9033.41,60,Retail,4.7,1
+INV-1540,Thompson-Nguyen,46,2,7145.42,45,Consulting,2.8,1
+INV-1541,Lopez and Sons,42,2,6930.51,30,Retail,3.7,0
+INV-1542,Potter-Cooper,55,1,13890.7,60,Construction,3.5,0
+INV-1543,Parker-Atkinson,25,1,2511.86,60,Retail,3.5,0
+INV-1544,Parks Inc,4,1,826.67,30,Retail,3.3,0
+INV-1545,Nelson-Bridges,50,0,11730.72,15,Construction,3.4,0
+INV-1546,Jackson PLC,43,1,10348.37,60,Retail,4.6,0
+INV-1547,"Holland, Martin and Williams",13,0,8674.59,15,Tech,2.1,0
+INV-1548,"Schmidt, Mcdonald and Morgan",36,0,11160.36,30,Healthcare,1.4,0
+INV-1549,"Reynolds, Taylor and Brooks",29,1,9181.33,60,Construction,4.5,0
+INV-1550,Thompson Group,16,2,14647.57,60,Consulting,3.7,1
+INV-1551,Bishop-Phillips,9,1,13481.01,30,Healthcare,3.5,0
+INV-1552,Taylor-Evans,55,3,5343.1,15,Healthcare,2.7,1
+INV-1553,Phillips LLC,42,1,5906.84,60,Construction,1.3,0
+INV-1554,Green Group,44,0,7229.27,15,Construction,1.2,0
+INV-1555,Davenport PLC,37,3,12014.74,30,Healthcare,2.3,0
+INV-1556,Morris Inc,8,0,503.71,60,Tech,4.3,0
+INV-1557,Nicholson PLC,13,0,3315.5,45,Retail,4.2,0
+INV-1558,Cross Inc,31,1,14803.59,45,Consulting,2.1,0
+INV-1559,Morrison-Mcbride,5,2,4813.01,45,Retail,1.0,1
+INV-1560,Perry and Sons,23,0,7001.84,60,Construction,2.2,0
+INV-1561,Hall LLC,13,1,14878.24,30,Retail,3.7,0
+INV-1562,Thompson Group,42,1,12633.6,60,Retail,5.0,0
+INV-1563,Myers PLC,27,2,8481.77,30,Consulting,3.7,1
+INV-1564,Henry PLC,7,0,12035.83,15,Retail,1.5,0
+INV-1565,Perez Group,32,0,3107.0,45,Tech,4.8,0
+INV-1566,"Wright, Baker and Ashley",37,2,13070.17,30,Consulting,2.6,0
+INV-1567,"Wagner, Robinson and Duncan",38,1,12843.06,30,Retail,3.0,0
+INV-1568,Yang Inc,54,2,14554.91,30,Consulting,3.3,0
+INV-1569,Alvarez LLC,35,3,8683.7,30,Tech,2.4,0
+INV-1570,Morales and Sons,52,1,3429.47,45,Tech,4.5,0
+INV-1571,"Anderson, Barry and Anderson",13,2,5772.65,15,Construction,1.9,0
+INV-1572,"Dennis, Gallagher and Knight",36,1,1587.89,30,Tech,2.9,0
+INV-1573,Lee-Taylor,26,2,11633.24,45,Tech,3.8,0
+INV-1574,"Brown, Little and Turner",55,1,9034.28,15,Retail,5.0,0
+INV-1575,Monroe-Cook,30,3,9769.69,30,Retail,1.9,1
+INV-1576,Hernandez-Paul,15,3,716.69,45,Tech,3.2,1
+INV-1577,"Bailey, Avila and Rodriguez",1,2,5172.9,45,Retail,2.9,0
+INV-1578,"Davidson, Gill and Lopez",45,0,9203.13,30,Construction,2.1,0
+INV-1579,Phillips-Reed,40,0,1021.77,15,Tech,3.3,0
+INV-1580,Reyes-Lawrence,31,1,10225.42,60,Consulting,3.3,0
+INV-1581,Peterson LLC,50,2,1495.72,15,Retail,2.1,1
+INV-1582,George-Smith,51,1,14430.09,60,Healthcare,3.7,0
+INV-1583,"Rice, Jones and Cline",17,1,4575.69,45,Consulting,3.5,0
+INV-1584,"Martin, Burns and Frederick",37,2,4367.92,15,Healthcare,4.9,1
+INV-1585,Ball-Mann,46,1,2305.38,30,Consulting,2.3,0
+INV-1586,"Bauer, Pineda and Mullins",28,1,12551.66,15,Consulting,4.7,0
+INV-1587,Mueller-Watts,4,0,2640.29,45,Healthcare,2.0,0
+INV-1588,Johnson Ltd,56,1,14527.53,15,Retail,2.8,0
+INV-1589,"Hamilton, Fuentes and Cuevas",54,3,13584.52,60,Healthcare,4.3,1
+INV-1590,Parks LLC,58,4,10813.38,60,Retail,4.4,1
+INV-1591,Duran-Smith,4,1,4220.17,60,Healthcare,1.8,0
+INV-1592,Walls Ltd,30,4,7390.1,15,Retail,1.5,1
+INV-1593,Bailey PLC,46,2,1925.43,45,Consulting,3.2,0
+INV-1594,Adams Inc,49,0,3425.05,30,Retail,1.1,0
+INV-1595,Mora-Bolton,35,3,5036.56,30,Construction,1.0,1
+INV-1596,Taylor-Clark,55,1,1661.31,45,Healthcare,1.3,0
+INV-1597,"Rasmussen, Miller and Haley",38,0,1195.07,45,Healthcare,3.4,0
+INV-1598,"Maxwell, Chambers and Turner",1,3,13122.01,60,Retail,4.2,1
+INV-1599,Glover Ltd,54,2,11774.35,15,Consulting,2.0,1
+INV-1600,Bryan-Woodard,34,0,980.93,30,Healthcare,3.8,0
+INV-1601,"Mendez, Wilson and Morrow",47,1,10393.69,60,Tech,4.6,0
+INV-1602,Vargas LLC,15,2,5565.88,60,Construction,4.2,0
+INV-1603,Clark Ltd,17,3,2903.55,60,Healthcare,1.6,0
+INV-1604,Cuevas-Ware,15,2,4688.63,60,Retail,4.7,0
+INV-1605,Jackson Group,26,2,9881.57,45,Healthcare,3.5,1
+INV-1606,James-Perry,4,2,6381.47,45,Construction,1.5,1
+INV-1607,Gordon-Wright,44,2,10284.02,45,Tech,4.8,0
+INV-1608,Potts Inc,44,2,3978.98,60,Retail,1.4,0
+INV-1609,"Chapman, Parsons and Jones",58,1,3410.95,15,Retail,2.2,0
+INV-1610,"Price, Valdez and Flynn",40,0,12444.07,15,Healthcare,1.2,0
+INV-1611,"Lewis, Larson and Jenkins",45,1,4901.88,15,Construction,4.9,0
+INV-1612,Mercado-Hendrix,31,1,13315.49,30,Consulting,4.7,0
+INV-1613,Clark and Sons,57,1,4859.42,15,Consulting,1.2,0
+INV-1614,Bowman and Sons,53,3,12527.36,45,Retail,3.2,1
+INV-1615,Myers PLC,4,2,3892.65,60,Construction,3.2,1
+INV-1616,"West, Robertson and Rodriguez",9,1,5013.13,60,Retail,1.2,1
+INV-1617,Morales-Jones,5,3,5857.33,45,Consulting,3.5,0
+INV-1618,Lee Group,13,1,9132.23,45,Construction,3.6,0
+INV-1619,"Martinez, Miller and Arnold",41,0,1172.24,15,Consulting,4.5,0
+INV-1620,Lawrence-Willis,5,1,6374.46,30,Tech,1.6,0
+INV-1621,Adams-Powers,25,3,12113.46,60,Tech,1.2,1
+INV-1622,Crosby-Williams,35,1,3660.43,15,Construction,1.1,0
+INV-1623,Mcclure-Williams,2,2,783.0,45,Retail,3.3,0
+INV-1624,"Campbell, Miller and Walton",18,4,3868.53,45,Consulting,3.8,1
+INV-1625,"Ferguson, Morgan and Jackson",54,1,10699.7,30,Healthcare,2.1,0
+INV-1626,Brown Ltd,7,0,7795.11,15,Consulting,1.8,0
+INV-1627,Johnson-Harris,43,1,3545.97,45,Retail,4.3,0
+INV-1628,"Oconnor, Best and Johnson",5,0,3060.09,30,Construction,1.2,0
+INV-1629,"Barrett, Duke and Ho",23,0,11336.53,45,Construction,1.2,0
+INV-1630,Marsh-Morgan,37,3,3400.51,45,Retail,1.8,1
+INV-1631,"Ray, Sharp and Gonzalez",29,0,4168.98,30,Tech,2.4,0
+INV-1632,Faulkner and Sons,22,0,2735.17,60,Retail,4.3,0
+INV-1633,Mason-Sanchez,34,0,9694.27,30,Retail,2.0,0
+INV-1634,Fuentes-Mckay,22,1,2007.25,15,Consulting,1.4,0
+INV-1635,"Bishop, Blair and Baird",15,3,2513.49,30,Healthcare,4.0,1
+INV-1636,Pacheco LLC,37,0,717.1,60,Healthcare,5.0,0
+INV-1637,"Woodward, Freeman and Downs",31,6,7121.68,45,Tech,3.5,1
+INV-1638,"Morton, Watson and Horn",52,2,7610.52,45,Construction,3.6,0
+INV-1639,Rodriguez Group,24,3,12312.03,45,Consulting,1.2,1
+INV-1640,Mcclure Ltd,33,1,9850.98,15,Retail,4.1,0
+INV-1641,Bradley-Thomas,4,0,2064.14,30,Tech,4.9,0
+INV-1642,"Merritt, Carrillo and Peterson",43,1,2446.28,15,Retail,4.6,0
+INV-1643,"Barnes, Hunt and Fields",32,1,3653.33,45,Healthcare,3.5,0
+INV-1644,"Friedman, Shaw and Hunt",41,1,9826.29,60,Healthcare,1.8,0
+INV-1645,"Alexander, Mercado and Thompson",27,2,13947.12,60,Healthcare,2.3,0
+INV-1646,Matthews-Steele,12,0,9416.44,45,Tech,4.2,0
+INV-1647,Kemp-Sellers,2,2,4579.79,15,Construction,3.7,1
+INV-1648,Gonzalez-Morris,14,2,2655.34,60,Retail,1.1,1
+INV-1649,Hutchinson LLC,37,1,13775.57,45,Consulting,2.6,0
+INV-1650,Stanley Group,56,6,12595.46,60,Consulting,3.5,1
+INV-1651,Smith-Thomas,45,1,9995.15,45,Retail,3.5,0
+INV-1652,Robles-Calderon,14,1,10332.47,30,Healthcare,4.6,0
+INV-1653,Ashley Ltd,17,3,6150.0,15,Retail,3.9,1
+INV-1654,"Edwards, Carson and Baxter",59,2,4976.35,30,Construction,3.2,1
+INV-1655,Jones-Wright,31,2,3756.43,30,Tech,1.4,0
+INV-1656,Nelson Group,20,0,1399.37,45,Construction,4.3,0
+INV-1657,"Mercado, Henry and King",54,4,4725.01,45,Retail,2.6,1
+INV-1658,"Carrillo, Soto and Blair",29,3,11129.89,15,Healthcare,3.7,1
+INV-1659,Woods-Allen,20,4,2962.27,60,Tech,1.1,1
+INV-1660,"Swanson, Stanley and Morris",22,1,11988.33,30,Healthcare,1.9,0
+INV-1661,"Reed, Rodriguez and Singh",26,0,7281.67,30,Consulting,3.3,0
+INV-1662,Haynes LLC,28,4,1187.07,45,Retail,1.2,1
+INV-1663,"Powell, Jacobs and Watts",34,2,4755.01,60,Retail,3.5,0
+INV-1664,Navarro-Thomas,1,2,13425.8,60,Retail,1.3,1
+INV-1665,"Lucas, Gregory and Owens",12,2,4873.44,60,Retail,1.2,1
+INV-1666,Golden Ltd,25,3,13973.51,45,Consulting,3.7,0
+INV-1667,Lambert Ltd,41,1,8851.24,60,Consulting,4.9,0
+INV-1668,"Green, Collins and Ortiz",26,2,2657.58,60,Healthcare,1.2,0
+INV-1669,Alexander-Thomas,46,1,1904.16,45,Retail,4.5,0
+INV-1670,"Rojas, Ball and Smith",51,0,9286.9,60,Retail,3.5,0
+INV-1671,"Thomas, Flores and Hale",23,2,3125.06,45,Tech,1.7,0
+INV-1672,Vasquez and Sons,57,2,5203.65,60,Construction,1.5,0
+INV-1673,Martinez Inc,17,2,821.07,15,Healthcare,2.5,0
+INV-1674,Cunningham-Hernandez,35,0,3963.07,15,Tech,2.2,0
+INV-1675,Torres LLC,32,2,2323.35,60,Consulting,1.6,0
+INV-1676,"Moon, Whitaker and Stone",59,2,4923.03,60,Consulting,2.9,0
+INV-1677,Williams Ltd,22,3,4300.62,15,Healthcare,4.8,1
+INV-1678,Freeman-Davis,1,2,6033.21,45,Construction,3.4,0
+INV-1679,Wilkins Group,18,3,12183.19,30,Construction,4.8,1
+INV-1680,"Benson, Johnson and Griffin",27,2,3555.02,30,Retail,3.3,1
+INV-1681,Aguirre-Roberson,39,1,9072.02,15,Consulting,4.6,0
+INV-1682,Ruiz-Lee,44,3,6729.03,30,Construction,1.8,1
+INV-1683,Travis Ltd,24,4,6329.29,45,Tech,4.8,0
+INV-1684,"Medina, Patel and Mitchell",14,0,6343.85,30,Retail,1.1,0
+INV-1685,Elliott and Sons,22,0,9144.52,30,Construction,4.1,0
+INV-1686,Snyder-Perkins,32,2,9454.88,30,Tech,1.0,1
+INV-1687,"Ross, Kaufman and Moran",29,1,6087.34,30,Retail,3.0,0
+INV-1688,Barnes Ltd,19,2,7221.64,30,Healthcare,1.0,1
+INV-1689,"Hughes, Norris and Mitchell",16,4,1650.51,60,Consulting,1.2,1
+INV-1690,Garcia-Conner,41,2,5089.79,60,Consulting,3.4,0
+INV-1691,Blake-Barnes,50,0,2078.78,45,Construction,1.5,0
+INV-1692,Reese-Lewis,48,1,1074.77,30,Healthcare,3.8,0
+INV-1693,"Lane, Grant and Wagner",57,0,5100.97,15,Healthcare,4.1,0
+INV-1694,Ayers-Orr,9,1,5163.5,60,Construction,1.7,1
+INV-1695,Harper-Torres,48,0,7458.05,45,Consulting,1.7,0
+INV-1696,"Sanchez, Vega and Gardner",20,0,12003.21,15,Construction,3.7,0
+INV-1697,"Berry, Harris and Powers",12,0,4352.89,15,Construction,2.4,1
+INV-1698,Clark Ltd,11,2,14431.91,60,Healthcare,3.9,1
+INV-1699,Wells-Spears,43,1,12027.54,15,Retail,2.3,0
+INV-1700,"Kelly, Mclean and Jones",55,1,5707.38,45,Construction,3.1,0
+INV-1701,Miller-Mcbride,38,1,14948.59,15,Retail,1.5,1
+INV-1702,Sanchez and Sons,48,2,11006.57,60,Healthcare,3.3,0
+INV-1703,Robinson-White,41,0,5460.5,15,Healthcare,3.7,0
+INV-1704,"Parks, Bailey and Garcia",43,3,3808.27,30,Construction,3.6,0
+INV-1705,Snyder Group,44,0,11185.62,60,Consulting,1.1,0
+INV-1706,Garcia-Stafford,42,1,10550.22,30,Retail,2.3,0
+INV-1707,Ramirez and Sons,21,2,2171.1,60,Retail,2.0,1
+INV-1708,Armstrong LLC,53,0,10471.46,45,Retail,1.7,0
+INV-1709,Garcia PLC,11,1,554.4,30,Retail,3.3,0
+INV-1710,Richards-Charles,40,0,8692.99,30,Healthcare,1.2,0
+INV-1711,"Green, Johnson and Bryant",35,1,533.95,60,Consulting,4.4,0
+INV-1712,Harris Group,43,1,9479.13,30,Construction,4.2,0
+INV-1713,"Frazier, Cooper and Stewart",9,1,4178.2,45,Construction,1.8,0
+INV-1714,Hodges Group,55,1,8991.93,60,Healthcare,3.4,0
+INV-1715,Wiley LLC,10,1,4392.61,45,Consulting,2.6,0
+INV-1716,Hill-Escobar,9,2,4770.27,15,Construction,2.2,0
+INV-1717,"Chavez, Carter and Hunter",57,3,10250.19,15,Construction,4.7,0
+INV-1718,Velasquez-Rogers,42,1,2167.34,15,Consulting,3.6,0
+INV-1719,Hawkins-Collins,30,1,2244.25,60,Construction,4.4,0
+INV-1720,Parrish Ltd,56,1,13693.54,45,Consulting,1.2,1
+INV-1721,Castaneda-Watts,23,2,5911.9,30,Construction,2.5,0
+INV-1722,Ward-Weiss,5,3,2134.62,15,Consulting,3.7,1
+INV-1723,Henderson Ltd,42,2,3257.4,30,Construction,2.3,1
+INV-1724,Byrd-Christensen,5,1,4183.59,45,Healthcare,1.8,0
+INV-1725,"Hammond, Ortiz and Roth",4,2,2318.79,30,Consulting,3.6,0
+INV-1726,Wells Ltd,36,1,1123.98,15,Construction,2.9,0
+INV-1727,Haynes-Morton,28,2,13907.84,60,Construction,4.5,0
+INV-1728,Wagner Inc,10,1,10416.78,30,Consulting,4.8,0
+INV-1729,Peterson and Sons,17,1,3804.85,15,Healthcare,2.2,0
+INV-1730,Hill-Dougherty,28,2,14295.32,45,Retail,2.3,1
+INV-1731,"Garcia, Moore and Gibson",8,2,12088.02,45,Construction,4.9,1
+INV-1732,"Perry, Wood and Hawkins",29,2,13121.04,30,Tech,1.7,1
+INV-1733,Ross-Hall,27,0,1504.65,45,Healthcare,1.8,0
+INV-1734,"Gardner, Hood and Johnson",59,2,10861.68,30,Tech,3.0,0
+INV-1735,Smith-Goodman,5,4,10643.4,30,Tech,4.7,1
+INV-1736,"Hayes, Morales and Mccarty",31,2,6235.11,15,Construction,4.5,1
+INV-1737,Flores Group,8,3,14668.33,15,Consulting,3.3,1
+INV-1738,Moss LLC,30,1,1031.2,15,Construction,2.0,0
+INV-1739,Martinez-Gomez,18,2,7714.82,30,Consulting,1.6,0
+INV-1740,Mcneil-Myers,8,1,6878.75,60,Tech,4.5,0
+INV-1741,Gray Ltd,53,4,4297.68,30,Tech,1.2,1
+INV-1742,Green-Johnson,4,1,9021.54,30,Healthcare,5.0,0
+INV-1743,"Harris, Webb and Carr",16,1,7284.83,15,Healthcare,4.4,0
+INV-1744,Carter Inc,2,0,13742.02,45,Tech,4.4,0
+INV-1745,Long-Brown,38,3,10642.33,60,Consulting,2.2,1
+INV-1746,Sandoval-Gilbert,18,0,11211.62,45,Healthcare,3.8,0
+INV-1747,Wang-Miller,6,0,3643.02,30,Consulting,4.0,0
+INV-1748,Brown Ltd,24,0,5998.8,30,Construction,4.2,0
+INV-1749,Singh Ltd,39,4,8117.51,60,Tech,1.2,1
+INV-1750,"Lewis, Underwood and Hill",7,3,8168.25,45,Consulting,5.0,0
+INV-1751,Salazar-Ward,59,2,470.47,60,Healthcare,4.6,1
+INV-1752,"Hudson, Kelley and Davis",27,0,4755.72,45,Healthcare,2.0,0
+INV-1753,King Group,55,1,6691.98,60,Tech,4.9,0
+INV-1754,"Sanchez, Reid and Holland",29,3,10691.71,30,Consulting,5.0,1
+INV-1755,Myers-Woods,15,1,9596.62,30,Construction,1.5,0
+INV-1756,Brown-Vargas,44,0,11461.11,15,Healthcare,1.2,0
+INV-1757,Moore Ltd,21,1,12838.35,45,Consulting,1.1,0
+INV-1758,Campbell-Molina,16,0,12579.03,15,Consulting,3.0,0
+INV-1759,"Moore, Lee and Day",44,1,6021.15,15,Construction,3.2,0
+INV-1760,Harrison Group,7,2,6818.58,15,Tech,4.3,0
+INV-1761,Sullivan-Figueroa,1,0,8296.27,45,Healthcare,1.3,0
+INV-1762,"Owens, Everett and Powell",18,0,2952.23,30,Healthcare,4.8,0
+INV-1763,Garcia-Allen,27,1,2850.61,15,Tech,2.6,0
+INV-1764,Norton Ltd,57,3,9379.57,60,Construction,2.9,1
+INV-1765,Bryant-King,3,0,2361.11,15,Healthcare,4.8,0
+INV-1766,"Osborne, Hughes and Gaines",23,5,10136.81,15,Healthcare,4.7,1
+INV-1767,Garcia-Aguilar,30,2,3110.99,45,Tech,1.9,0
+INV-1768,"Garcia, White and Perry",42,3,11437.8,60,Retail,3.9,1
+INV-1769,Moore PLC,58,0,1825.97,45,Tech,4.5,0
+INV-1770,Campbell Group,15,0,6303.02,15,Construction,1.3,0
+INV-1771,"Murray, Camacho and Olsen",25,1,5924.75,15,Construction,1.3,0
+INV-1772,Weeks-Brown,40,0,8250.8,30,Tech,1.9,0
+INV-1773,White Inc,24,2,14494.32,15,Construction,1.8,1
+INV-1774,Weber-Scott,11,1,4379.05,60,Tech,1.3,0
+INV-1775,Perkins Group,20,2,11445.39,60,Healthcare,2.4,1
+INV-1776,Melendez-Reeves,18,2,1006.78,15,Retail,2.3,0
+INV-1777,Rose PLC,55,3,14430.95,15,Construction,2.8,1
+INV-1778,Davis and Sons,53,0,13774.86,30,Tech,3.2,0
+INV-1779,Riley Ltd,56,1,12757.38,60,Retail,2.5,0
+INV-1780,Padilla-Reyes,52,2,8260.01,45,Tech,1.2,0
+INV-1781,Arias-Rose,25,2,11284.65,45,Retail,2.4,1
+INV-1782,"Brown, Carroll and Moore",16,2,1870.08,15,Tech,3.4,0
+INV-1783,Atkins Group,20,0,14515.61,60,Consulting,3.9,0
+INV-1784,Taylor Group,11,2,14439.11,60,Retail,3.1,1
+INV-1785,Nelson Ltd,44,0,3248.5,15,Healthcare,1.0,0
+INV-1786,"Taylor, Page and Singh",2,0,5497.83,15,Consulting,2.3,0
+INV-1787,Sanchez PLC,2,0,10976.12,30,Tech,3.4,0
+INV-1788,Tapia-Rogers,12,3,14063.52,45,Healthcare,3.1,0
+INV-1789,"Nelson, Hooper and Benjamin",18,2,6025.81,15,Consulting,2.9,0
+INV-1790,"Sanchez, Lee and Curry",48,1,12800.81,45,Tech,1.3,1
+INV-1791,Garcia Group,15,1,10657.74,60,Tech,3.1,0
+INV-1792,Grant Inc,15,0,4439.81,15,Consulting,3.1,0
+INV-1793,Lewis Inc,38,4,13966.45,45,Retail,3.1,1
+INV-1794,Thompson Inc,46,2,11919.99,15,Healthcare,4.2,0
+INV-1795,Johnson PLC,42,0,5820.11,60,Retail,3.5,0
+INV-1796,"Moran, Goodwin and Jones",4,1,1996.94,60,Construction,3.9,0
+INV-1797,Kline Ltd,11,2,8024.12,45,Retail,2.3,0
+INV-1798,Vasquez-Clay,53,2,11661.41,45,Retail,2.5,1
+INV-1799,Henson-Weiss,50,1,5335.63,45,Tech,4.7,0
+INV-1800,"Davila, Campbell and Rodriguez",24,1,10925.5,15,Consulting,4.3,0
+INV-1801,Velasquez-Gill,10,1,8381.66,45,Tech,4.0,0
+INV-1802,"Mcdaniel, Smith and Mays",24,1,5191.55,15,Construction,1.7,0
+INV-1803,Berry Group,33,1,1771.17,45,Tech,4.3,0
+INV-1804,Foster Ltd,48,0,3979.23,60,Healthcare,4.3,0
+INV-1805,"Hayes, Boyer and Sharp",25,0,739.62,30,Tech,1.2,0
+INV-1806,Diaz Group,23,0,868.24,15,Healthcare,2.8,0
+INV-1807,"Kramer, Lee and Patrick",33,2,5323.71,15,Construction,3.6,0
+INV-1808,Watkins Group,24,2,6182.78,30,Retail,5.0,0
+INV-1809,Harrison LLC,33,2,9535.4,30,Retail,2.8,1
+INV-1810,Terrell-Taylor,19,0,4125.09,45,Construction,1.7,0
+INV-1811,Lucero-Burke,57,3,3896.21,60,Consulting,2.4,0
+INV-1812,Shannon Inc,26,1,11326.21,60,Construction,4.6,0
+INV-1813,"Rogers, Hahn and Pierce",37,1,10310.09,15,Tech,4.7,1
+INV-1814,Moore-Garcia,24,1,11243.46,45,Construction,4.2,0
+INV-1815,Ayers-Miranda,11,2,4783.44,15,Construction,1.8,0
+INV-1816,"Duffy, Zhang and Martin",7,2,2923.86,45,Retail,4.0,0
+INV-1817,Page Group,26,3,6753.87,45,Healthcare,4.4,1
+INV-1818,Hubbard-Garcia,13,0,3212.32,60,Healthcare,4.1,0
+INV-1819,"Charles, Summers and Ward",53,1,5855.57,60,Construction,2.2,0
+INV-1820,"Valencia, Richards and Wiley",33,0,8167.77,30,Healthcare,4.7,0
+INV-1821,Jones-Gonzalez,5,1,6790.06,60,Construction,3.0,0
+INV-1822,"Reyes, Cruz and Brown",58,2,5116.15,45,Retail,3.8,0
+INV-1823,Moore Ltd,38,1,3785.41,60,Retail,1.8,0
+INV-1824,"Grant, Perez and Jackson",54,4,12067.23,60,Consulting,2.7,1
+INV-1825,Cardenas-Guerrero,35,2,8977.23,30,Consulting,3.0,0
+INV-1826,Shannon Inc,45,1,13879.78,45,Construction,1.9,0
+INV-1827,Howard Group,32,1,1049.4,15,Retail,3.3,0
+INV-1828,Carlson-Holden,42,1,5216.38,45,Construction,4.2,0
+INV-1829,Garner-Watson,4,1,10437.46,45,Healthcare,3.6,0
+INV-1830,"Harris, Rojas and Perez",31,2,7814.45,60,Tech,4.4,0
+INV-1831,Wilson Group,57,3,5913.55,60,Construction,4.9,0
+INV-1832,"Murray, Durham and Jordan",22,4,650.16,60,Retail,3.9,1
+INV-1833,"Miller, James and Robinson",54,1,14583.31,45,Consulting,3.1,0
+INV-1834,"Turner, Williams and Mcdonald",15,3,2799.95,60,Construction,3.1,1
+INV-1835,Bridges-Vaughn,2,2,2851.63,15,Retail,4.6,0
+INV-1836,"Chase, Martinez and Wilson",10,1,10643.11,60,Construction,3.1,0
+INV-1837,Thompson-Valenzuela,49,0,11662.39,30,Retail,1.5,0
+INV-1838,Diaz and Sons,31,2,4495.78,30,Consulting,3.2,0
+INV-1839,Pearson Group,29,2,7742.92,60,Retail,4.6,0
+INV-1840,Peck-Johnson,7,1,13918.23,30,Retail,4.8,0
+INV-1841,"Andrews, Dickson and Hudson",54,2,5000.07,30,Construction,4.8,0
+INV-1842,"Brown, Hall and Palmer",19,2,8762.42,45,Healthcare,1.3,0
+INV-1843,"Sandoval, Holloway and Campbell",38,0,1300.15,15,Consulting,1.5,0
+INV-1844,Morales-Munoz,34,3,8648.64,30,Healthcare,4.6,1
+INV-1845,"Perez, Yates and English",47,3,13034.22,45,Construction,4.8,1
+INV-1846,Johnson Ltd,7,1,2703.6,60,Retail,4.9,0
+INV-1847,Schmidt-Taylor,24,0,4220.63,30,Consulting,1.4,0
+INV-1848,Ruiz Inc,5,3,11627.85,45,Healthcare,1.7,0
+INV-1849,"May, Durham and Davis",9,3,5262.63,45,Construction,4.2,0
+INV-1850,Moore-Montgomery,1,0,11308.86,30,Retail,1.9,0
+INV-1851,Burch LLC,39,2,8653.75,15,Tech,4.5,0
+INV-1852,"Gray, Padilla and Valenzuela",39,1,6861.63,60,Consulting,4.7,0
+INV-1853,"Hobbs, Johnson and Gibbs",38,1,10828.89,60,Consulting,1.5,1
+INV-1854,Johnson-Moreno,51,2,13454.22,15,Construction,4.9,0
+INV-1855,Lee-Shaw,43,0,4148.23,45,Healthcare,1.5,0
+INV-1856,Powers PLC,38,0,12361.94,30,Consulting,1.6,0
+INV-1857,"Fry, Johnson and Rojas",42,2,6781.75,45,Healthcare,3.3,0
+INV-1858,Williams-Oconnor,58,2,12779.21,30,Retail,2.5,0
+INV-1859,Ruiz-Griffin,50,2,12656.01,30,Retail,1.1,1
+INV-1860,Stokes Group,50,1,14079.82,60,Tech,3.7,0
+INV-1861,Ware-Sullivan,13,1,4487.97,60,Retail,2.0,0
+INV-1862,Ritter LLC,6,2,7735.2,45,Construction,1.6,0
+INV-1863,Beck PLC,37,0,4890.18,15,Consulting,2.1,0
+INV-1864,Lester-Richardson,44,1,11249.73,45,Construction,1.1,0
+INV-1865,Galvan Inc,49,0,10583.17,30,Tech,1.0,0
+INV-1866,James and Sons,52,1,13020.25,45,Consulting,2.8,0
+INV-1867,Tucker Inc,10,0,11326.61,30,Retail,3.3,1
+INV-1868,"Erickson, Jackson and Flores",45,0,4058.49,30,Tech,3.1,0
+INV-1869,"Ballard, Peterson and Newton",10,2,3646.31,30,Healthcare,3.0,0
+INV-1870,"Brown, Deleon and Flynn",2,1,9856.64,15,Construction,1.2,1
+INV-1871,Andrews-Daniel,39,3,11682.98,45,Healthcare,4.2,0
+INV-1872,"Mcgee, Little and Smith",22,2,7593.32,30,Consulting,4.1,1
+INV-1873,"Gonzales, Johnson and Moses",5,0,9656.65,15,Retail,1.3,0
+INV-1874,Campos-Holloway,30,1,4123.68,45,Healthcare,2.7,0
+INV-1875,Evans LLC,34,2,1779.33,60,Consulting,3.6,0
+INV-1876,Adams-Cross,53,0,11186.02,60,Healthcare,3.6,0
+INV-1877,Ritter Ltd,26,1,4048.71,15,Tech,2.5,0
+INV-1878,Chandler-Jacobson,23,3,8668.15,45,Retail,4.7,1
+INV-1879,Allen Inc,39,2,13973.95,60,Healthcare,1.1,1
+INV-1880,Velasquez Ltd,58,0,3500.55,45,Tech,2.6,0
+INV-1881,Ortiz Group,59,1,9822.77,30,Tech,4.9,0
+INV-1882,Lewis-Douglas,25,2,1635.87,60,Consulting,1.3,1
+INV-1883,Ramirez Ltd,9,1,13942.62,15,Retail,3.6,0
+INV-1884,"Thomas, Gaines and Reilly",12,2,13725.37,30,Construction,4.9,1
+INV-1885,Fisher PLC,21,2,4871.89,30,Tech,1.5,1
+INV-1886,Hunter-Thomas,59,0,376.39,45,Tech,1.6,0
+INV-1887,"Lewis, Jenkins and Powell",2,2,6435.25,45,Consulting,4.4,0
+INV-1888,Aguirre PLC,11,1,10140.57,45,Retail,2.3,0
+INV-1889,Garrison and Sons,21,1,12687.19,45,Tech,2.8,0
+INV-1890,"Floyd, Powers and Rogers",57,2,11346.16,45,Tech,3.9,0
+INV-1891,Harris LLC,37,0,8899.42,45,Consulting,4.4,0
+INV-1892,Jones Group,16,1,3202.23,15,Consulting,5.0,0
+INV-1893,Rice-Blake,27,1,11081.38,30,Consulting,3.5,0
+INV-1894,Bolton-Sims,28,4,10469.17,30,Tech,2.2,1
+INV-1895,"Rubio, Swanson and Norton",23,1,1763.63,45,Consulting,4.3,0
+INV-1896,Moses-Weber,58,4,11263.31,15,Retail,4.4,1
+INV-1897,Barker-Miller,17,1,14318.26,15,Retail,1.8,0
+INV-1898,Huff-Scott,3,1,3683.67,45,Tech,3.0,0
+INV-1899,Evans-Hurley,28,0,3279.97,60,Consulting,4.0,0
+INV-1900,"Dean, Hartman and Murphy",51,1,10314.76,15,Healthcare,3.4,0
+INV-1901,Caldwell LLC,43,1,234.39,45,Construction,4.9,0
+INV-1902,"Turner, Lewis and Aguilar",41,1,3934.38,60,Tech,4.7,0
+INV-1903,Armstrong PLC,37,1,9282.51,60,Construction,1.9,0
+INV-1904,Clark-Carlson,20,3,2986.88,60,Retail,2.2,1
+INV-1905,Vazquez Inc,1,0,6467.53,15,Tech,2.8,0
+INV-1906,"Edwards, Smith and Webb",45,0,1644.63,60,Healthcare,1.7,0
+INV-1907,Allen Group,22,1,1009.46,60,Healthcare,1.1,0
+INV-1908,Hall LLC,29,0,6942.39,30,Construction,4.6,0
+INV-1909,Robinson-Harrell,14,1,301.24,30,Construction,2.9,0
+INV-1910,"Cain, Marshall and Booker",33,2,12018.63,45,Construction,1.4,1
+INV-1911,Grant-Kim,16,1,3422.68,60,Tech,1.3,0
+INV-1912,"Beck, Jones and Villegas",5,3,13146.21,45,Consulting,3.9,1
+INV-1913,Shaw-Herrera,9,1,2605.91,15,Construction,2.4,0
+INV-1914,Blanchard-Glass,6,1,5754.76,30,Healthcare,3.5,0
+INV-1915,"Murphy, Miller and Arnold",16,3,883.71,15,Construction,3.3,0
+INV-1916,Green-Charles,58,1,14990.38,60,Tech,1.8,0
+INV-1917,Horton Inc,28,1,11596.31,30,Retail,3.5,0
+INV-1918,"Thomas, Love and Jenkins",5,2,4631.46,15,Construction,1.4,1
+INV-1919,Kim PLC,57,1,6111.6,60,Consulting,2.7,0
+INV-1920,Bentley-Romero,4,1,14795.42,60,Tech,4.3,0
+INV-1921,"Moore, Mann and Frye",41,3,4727.24,30,Construction,2.9,1
+INV-1922,Torres Ltd,42,2,5546.0,45,Tech,3.5,0
+INV-1923,Jenkins LLC,55,1,9596.96,30,Healthcare,4.4,0
+INV-1924,"Bryant, Soto and Walters",6,3,9143.71,60,Healthcare,3.5,0
+INV-1925,"Shannon, Anderson and Young",40,0,9727.05,45,Healthcare,2.1,0
+INV-1926,"Simmons, Davidson and Cantu",30,0,11093.32,15,Retail,2.3,0
+INV-1927,Alvarez-Robinson,9,0,10817.12,60,Consulting,3.7,0
+INV-1928,"Lara, Walton and Sweeney",11,1,327.56,60,Tech,1.1,0
+INV-1929,Garcia and Sons,50,0,6455.76,30,Consulting,3.9,0
+INV-1930,"Cruz, Cox and Harding",19,3,2832.68,45,Retail,2.4,0
+INV-1931,Delgado PLC,49,1,13031.77,15,Construction,3.7,0
+INV-1932,Thompson and Sons,23,0,10576.93,60,Consulting,1.2,0
+INV-1933,Prince and Sons,33,2,13767.99,60,Construction,4.2,1
+INV-1934,"Roberts, Hester and Olson",38,0,8993.22,15,Retail,3.9,0
+INV-1935,"Diaz, Henry and Hardy",29,1,7055.35,60,Tech,2.9,0
+INV-1936,Brown and Sons,12,2,5762.15,45,Construction,1.4,0
+INV-1937,Smith-Dorsey,53,1,7130.85,60,Construction,4.4,1
+INV-1938,"Galloway, Johnson and Mathews",34,2,1446.35,15,Healthcare,4.9,0
+INV-1939,Garcia-Sanders,49,2,14440.75,15,Consulting,4.9,1
+INV-1940,Odonnell Group,57,4,1363.68,30,Construction,2.3,1
+INV-1941,"Stanley, Smith and Levy",55,3,3260.61,45,Retail,4.7,0
+INV-1942,"Martinez, Porter and Yoder",16,3,304.96,60,Consulting,3.7,0
+INV-1943,Sampson and Sons,3,2,1999.76,60,Consulting,3.5,0
+INV-1944,Torres Inc,18,3,14217.86,45,Consulting,2.6,1
+INV-1945,Boyd Group,45,2,3391.02,15,Tech,4.3,1
+INV-1946,Parks PLC,2,0,12115.76,15,Healthcare,4.4,0
+INV-1947,"Ellis, Mccullough and House",35,1,14480.94,45,Construction,2.1,0
+INV-1948,Coleman-Shepherd,46,0,14413.43,45,Tech,1.2,0
+INV-1949,"Jones, Carter and Johnson",39,1,14309.08,30,Consulting,4.6,0
+INV-1950,"Rosales, King and Martinez",20,1,10329.64,60,Consulting,3.0,0
+INV-1951,Gonzales-Lopez,57,3,9195.12,15,Retail,1.3,1
+INV-1952,"Holmes, Ward and Campbell",35,1,9477.13,15,Tech,2.0,0
+INV-1953,Wall PLC,53,1,11078.39,45,Healthcare,4.5,0
+INV-1954,Martin-Chaney,24,2,6386.16,60,Tech,4.4,0
+INV-1955,Robinson and Sons,47,1,435.62,30,Construction,3.5,0
+INV-1956,"Stark, Brown and Martin",59,2,4257.63,45,Tech,2.3,1
+INV-1957,Wells-Johnson,18,2,6527.62,60,Consulting,1.6,1
+INV-1958,Sullivan-Bonilla,18,3,3036.74,45,Consulting,2.9,0
+INV-1959,Padilla Group,29,2,7184.16,45,Consulting,3.0,0
+INV-1960,Lara-Carey,46,0,8401.98,60,Consulting,3.4,0
+INV-1961,Olson Inc,19,1,7399.94,45,Healthcare,2.3,0
+INV-1962,Snyder LLC,4,2,11720.74,15,Construction,1.7,0
+INV-1963,"Perez, Williams and Berry",7,1,8365.34,45,Retail,2.4,0
+INV-1964,"Roberts, Martin and Cline",49,1,4316.06,60,Consulting,1.7,0
+INV-1965,Garcia-Harris,25,0,10697.58,45,Retail,1.1,0
+INV-1966,Ruiz-Huffman,3,1,10896.98,60,Construction,4.8,0
+INV-1967,"Shea, Brewer and Zhang",45,1,13141.09,30,Retail,2.4,0
+INV-1968,Jones-Brady,58,1,4370.6,60,Tech,2.1,0
+INV-1969,Dalton-Rose,58,0,14167.74,60,Tech,4.9,0
+INV-1970,"Watkins, Mcintyre and Brown",25,1,2082.93,30,Retail,4.7,0
+INV-1971,"Jacobs, Anderson and Valencia",8,1,969.95,15,Tech,1.5,0
+INV-1972,Cole-Lewis,35,3,10967.54,15,Healthcare,1.5,1
+INV-1973,Mcneil-Hanson,37,2,466.83,45,Healthcare,1.4,1
+INV-1974,"Davis, Petersen and Hart",4,1,12772.07,30,Healthcare,3.1,0
+INV-1975,Bryan-Klein,8,2,7781.46,30,Healthcare,2.9,0
+INV-1976,"Christian, Mays and Reynolds",35,1,10155.14,60,Retail,1.7,0
+INV-1977,"Douglas, Brown and Williams",11,0,11201.62,30,Consulting,3.9,0
+INV-1978,Cochran LLC,19,3,11002.87,30,Consulting,4.6,1
+INV-1979,Fowler-Ward,57,1,2304.28,45,Healthcare,1.2,0
+INV-1980,Gonzalez Group,51,1,2561.19,60,Construction,4.5,0
+INV-1981,Bender LLC,15,1,1921.71,30,Healthcare,4.9,0
+INV-1982,Kennedy-Ayala,44,1,5529.47,45,Consulting,1.4,0
+INV-1983,Finley LLC,56,4,3802.95,45,Construction,4.4,1
+INV-1984,Hall-Ware,57,2,13431.31,60,Tech,3.1,1
+INV-1985,Christensen-Fitzgerald,42,1,6153.45,30,Construction,1.2,0
+INV-1986,Webb-Roberts,42,2,13988.56,45,Tech,1.4,1
+INV-1987,White-Mcneil,47,0,11752.48,45,Construction,2.4,0
+INV-1988,King Ltd,40,0,5627.48,30,Healthcare,1.4,0
+INV-1989,"Phillips, Gomez and Garza",4,0,5452.98,45,Healthcare,3.0,0
+INV-1990,Watts-Snow,38,2,5804.81,45,Consulting,4.4,1
+INV-1991,Cruz-Wyatt,3,2,3471.86,45,Construction,3.9,1
+INV-1992,Higgins-Hamilton,9,2,12001.82,15,Consulting,3.9,0
+INV-1993,Marshall-Murphy,55,1,1910.96,60,Healthcare,2.6,0
+INV-1994,Lopez-Perez,19,3,1983.13,45,Tech,4.4,1
+INV-1995,Daniels-Walsh,54,4,10033.47,45,Retail,2.8,1
+INV-1996,Levine Ltd,10,2,5595.58,45,Retail,4.4,0
+INV-1997,Mcclain-Hart,19,1,5882.42,45,Healthcare,2.8,0
+INV-1998,Escobar LLC,32,3,2313.23,45,Healthcare,2.6,1
+INV-1999,Kennedy and Sons,20,1,10146.38,30,Tech,3.8,0
+INV-2000,Castro-Johnson,34,2,7381.95,45,Consulting,4.1,0
+INV-2001,Villanueva-Ellis,27,0,5570.41,45,Tech,3.4,0
+INV-2002,Munoz-Stone,17,3,5264.36,15,Consulting,1.8,0
+INV-2003,Griffith-Nunez,5,0,9347.92,30,Tech,3.0,0
+INV-2004,"Jennings, Robinson and Brown",1,0,6509.21,15,Consulting,2.8,0
+INV-2005,Clark and Sons,11,1,755.98,30,Tech,3.9,0
+INV-2006,Stokes-Davis,54,1,1597.08,15,Retail,1.5,1
+INV-2007,Lawrence-Callahan,30,1,10145.89,60,Construction,3.5,0
+INV-2008,Hull Inc,23,1,4250.26,60,Retail,4.9,0
+INV-2009,Sanchez-Neal,59,0,349.69,30,Retail,1.6,0
+INV-2010,Burns-Ramirez,39,3,14186.25,30,Healthcare,3.7,1
+INV-2011,Moore Ltd,17,2,12051.88,60,Healthcare,3.5,0
+INV-2012,Chandler-Herrera,40,3,14045.74,30,Construction,4.6,1
+INV-2013,Smith Group,48,0,1772.44,45,Construction,1.7,0
+INV-2014,Palmer and Sons,43,0,3850.52,15,Retail,2.8,0
+INV-2015,"Mills, Moore and Wilkerson",45,1,6516.5,30,Consulting,3.6,1
+INV-2016,"Phelps, Lucas and Dennis",52,3,7573.2,15,Tech,2.3,1
+INV-2017,Martin Group,49,4,7936.1,60,Tech,1.1,1
+INV-2018,"Williams, Rollins and Henderson",38,2,5413.02,15,Healthcare,4.4,0
+INV-2019,Michael Group,42,4,13334.14,60,Tech,1.5,1
+INV-2020,Andrews PLC,34,1,2522.16,45,Retail,4.8,0
+INV-2021,"Hodge, Greene and Patterson",26,0,11074.47,15,Construction,2.0,0
+INV-2022,"Huber, Reynolds and Simon",57,3,1898.18,15,Construction,1.5,0
+INV-2023,Hopkins-Peterson,8,1,9010.1,45,Healthcare,3.2,0
+INV-2024,Bowman Inc,11,2,9138.02,60,Tech,1.2,1
+INV-2025,"Moore, Watson and Guerrero",54,2,5339.87,60,Construction,2.1,0
+INV-2026,Barnett Inc,44,5,4068.68,30,Retail,4.8,1
+INV-2027,"Baker, Reed and Morgan",11,4,1932.55,45,Tech,3.1,1
+INV-2028,Flores and Sons,21,2,6206.02,60,Construction,4.9,0
+INV-2029,Harrington-Perez,52,1,10777.5,30,Retail,3.4,0
+INV-2030,"Smith, Sanchez and Roach",10,1,5952.39,45,Construction,2.8,0
+INV-2031,Davis-Young,7,0,11750.97,30,Tech,1.8,0
+INV-2032,Stewart Group,33,2,9944.31,60,Healthcare,2.1,0
+INV-2033,Fuller LLC,19,1,11786.16,45,Retail,4.4,0
+INV-2034,French-Logan,7,0,12849.19,60,Retail,3.5,0
+INV-2035,Wilson and Sons,57,0,3539.84,30,Tech,1.8,0
+INV-2036,"Young, Bradley and Lopez",2,5,5520.08,60,Construction,4.4,1
+INV-2037,"Collier, Castillo and Hamilton",6,0,1316.1,30,Retail,2.0,0
+INV-2038,"Adams, Thompson and Smith",6,1,10775.52,45,Healthcare,3.5,0
+INV-2039,"Castillo, Thompson and Coleman",28,4,11205.32,30,Healthcare,4.0,1
+INV-2040,Davis-Gonzalez,1,2,11462.89,45,Construction,3.9,0
+INV-2041,Huber LLC,29,2,9196.37,45,Consulting,2.6,0
+INV-2042,Thomas-Wood,22,0,5471.67,15,Construction,3.8,0
+INV-2043,Mcguire-Smith,25,2,2707.45,45,Tech,3.5,1
+INV-2044,Smith Inc,46,2,5683.27,15,Retail,3.3,0
+INV-2045,Wagner LLC,18,1,10841.49,60,Construction,2.1,0
+INV-2046,"Cobb, Atkins and Shepherd",13,2,5883.48,30,Healthcare,4.4,0
+INV-2047,Jones PLC,14,0,11582.79,45,Retail,4.6,0
+INV-2048,Stokes LLC,40,2,12145.18,45,Construction,3.1,1
+INV-2049,Willis Inc,43,0,1483.88,30,Tech,3.4,0
+INV-2050,Wheeler and Sons,37,0,1707.34,30,Healthcare,3.9,0
+INV-2051,Garcia PLC,26,0,4724.39,30,Healthcare,3.1,0
+INV-2052,Friedman and Sons,6,2,2740.84,45,Healthcare,4.2,0
+INV-2053,Moore-Harmon,39,2,13960.92,60,Consulting,4.8,1
+INV-2054,Brown-Taylor,56,2,1463.96,30,Tech,2.8,0
+INV-2055,"Morrison, Escobar and Gardner",31,1,7563.43,15,Consulting,2.1,0
+INV-2056,Mills-Cruz,28,3,13001.93,60,Consulting,2.3,1
+INV-2057,Owens and Sons,34,1,1170.57,45,Retail,3.9,0
+INV-2058,Long Ltd,1,2,11247.49,15,Retail,4.6,0
+INV-2059,Wright LLC,22,2,9766.2,30,Consulting,4.5,1
+INV-2060,Lowe Ltd,11,0,2149.3,30,Tech,4.4,0
+INV-2061,"Martinez, Jimenez and Payne",26,0,4063.22,45,Consulting,4.5,0
+INV-2062,Rodgers Inc,11,2,438.64,60,Retail,2.5,0
+INV-2063,Clark PLC,52,3,4401.4,30,Consulting,2.9,0
+INV-2064,"Burton, Green and Mendoza",26,2,4561.58,60,Retail,3.3,0
+INV-2065,Baker-Thompson,9,3,3819.2,60,Retail,1.9,1
+INV-2066,Sims and Sons,45,0,3634.76,60,Tech,3.8,0
+INV-2067,Huber-Griffith,9,0,10639.27,60,Healthcare,2.0,0
+INV-2068,"Nichols, Solis and Robinson",16,2,12448.2,15,Consulting,2.7,0
+INV-2069,Hood-Anderson,8,0,14430.85,60,Construction,4.2,0
+INV-2070,Spencer PLC,20,0,363.0,15,Healthcare,2.7,0
+INV-2071,Smith-Gross,13,1,3724.25,45,Retail,4.8,0
+INV-2072,Mahoney Ltd,33,5,6621.54,30,Consulting,4.0,1
+INV-2073,"Watson, Bell and Perkins",23,0,221.14,15,Retail,2.8,0
+INV-2074,Alvarado-Barker,41,0,13744.47,60,Construction,2.9,0
+INV-2075,Mckee LLC,6,0,14593.33,15,Consulting,3.2,0
+INV-2076,"Allen, Gardner and Romero",58,2,5058.18,15,Retail,1.5,1
+INV-2077,Roberson-Rose,22,2,422.33,60,Retail,2.3,1
+INV-2078,Chavez Group,10,0,5454.23,45,Healthcare,2.9,0
+INV-2079,Campbell PLC,20,6,6097.49,30,Tech,2.3,1
+INV-2080,Castillo Ltd,16,1,14973.29,60,Construction,1.8,1
+INV-2081,Cole Ltd,32,1,12035.44,60,Healthcare,4.0,0
+INV-2082,"Kelly, Moore and Hines",10,2,1676.5,60,Healthcare,1.2,1
+INV-2083,"Randall, Young and Young",2,0,3686.38,15,Consulting,4.7,0
+INV-2084,"Kennedy, Bush and Best",25,5,3664.72,30,Construction,1.2,1
+INV-2085,Adams-Reeves,1,2,7770.58,15,Tech,4.7,0
+INV-2086,Richards PLC,46,1,1770.16,60,Consulting,3.7,0
+INV-2087,"Cuevas, Levy and Moreno",18,0,1993.1,30,Tech,1.3,0
+INV-2088,Mckay-Butler,9,2,7711.13,15,Retail,2.6,0
+INV-2089,Palmer-Walker,39,2,5039.7,45,Healthcare,3.5,1
+INV-2090,Tyler PLC,30,3,13117.89,60,Consulting,4.3,0
+INV-2091,"Smith, Wolf and Barry",47,1,8755.47,60,Tech,4.8,0
+INV-2092,Jones Ltd,35,2,5063.34,30,Healthcare,2.1,0
+INV-2093,Benton PLC,54,1,11555.05,45,Tech,1.8,0
+INV-2094,Perez-Wyatt,55,2,14062.59,45,Tech,1.4,1
+INV-2095,"Smith, Hernandez and Vasquez",11,3,7477.72,15,Retail,4.6,1
+INV-2096,Hansen Inc,58,0,12062.78,60,Consulting,3.1,0
+INV-2097,"Johnson, Navarro and Martinez",8,0,9721.87,15,Tech,2.1,0
+INV-2098,"Jones, Bryan and Vang",22,1,12802.04,30,Retail,2.9,0
+INV-2099,Snyder-Howell,11,3,10150.44,15,Consulting,3.1,1
+INV-2100,"Stewart, Campbell and Travis",38,2,3312.09,15,Healthcare,3.3,0
+INV-2101,"Johnson, Lawson and Bush",9,1,10885.35,15,Tech,4.4,0
+INV-2102,Carroll-Lynch,42,0,6521.26,15,Healthcare,1.5,0
+INV-2103,Barber-Rodriguez,58,1,11406.4,60,Tech,2.2,0
+INV-2104,"Lopez, Ford and Howell",9,2,8581.58,30,Retail,4.1,0
+INV-2105,"Pierce, Martin and Campbell",59,2,13643.81,30,Consulting,1.4,0
+INV-2106,"Hale, Johnson and Little",12,3,5751.47,45,Tech,3.0,1
+INV-2107,"Schneider, Gould and Barnett",30,2,3144.16,45,Consulting,3.4,0
+INV-2108,"Coleman, Gordon and Reid",38,2,2678.56,45,Tech,2.5,0
+INV-2109,Pratt Ltd,19,0,8141.79,45,Tech,4.7,0
+INV-2110,Mcgee-Ali,46,1,13185.63,30,Healthcare,1.2,0
+INV-2111,"Morales, Salazar and Kelley",45,2,1434.01,45,Construction,4.7,1
+INV-2112,Lawson-Wall,18,1,10645.23,15,Consulting,4.3,0
+INV-2113,Hines-Jackson,11,3,8096.61,30,Healthcare,1.0,1
+INV-2114,"Watson, Hoffman and Barnett",12,1,429.37,60,Retail,1.7,0
+INV-2115,Bailey-Jones,59,1,1362.34,45,Healthcare,2.4,0
+INV-2116,King and Sons,52,1,4784.05,45,Healthcare,4.4,0
+INV-2117,"Hamilton, Lopez and Castillo",15,0,14767.97,60,Tech,2.5,0
+INV-2118,Peters and Sons,36,0,12170.14,45,Healthcare,2.0,0
+INV-2119,Miller and Sons,11,1,6839.76,30,Consulting,3.2,1
+INV-2120,"Porter, Woods and Stevens",20,1,7685.44,60,Tech,1.1,1
+INV-2121,Fleming-Miller,14,0,7408.82,30,Construction,4.5,0
+INV-2122,Mills-Black,5,1,4237.35,30,Healthcare,2.9,0
+INV-2123,Chase-Gonzalez,46,5,2139.02,15,Consulting,3.4,1
+INV-2124,Levy and Sons,19,1,13882.52,60,Healthcare,3.1,0
+INV-2125,Caldwell-Smith,32,1,4605.65,30,Healthcare,1.1,0
+INV-2126,Martin PLC,45,2,1469.76,30,Construction,1.4,0
+INV-2127,"James, Gibson and Stewart",17,0,4782.09,30,Construction,2.3,0
+INV-2128,"Rogers, Williams and West",29,0,3702.17,15,Healthcare,4.6,0
+INV-2129,"Rodriguez, Hunt and Flynn",20,1,10028.69,45,Retail,3.1,0
+INV-2130,"Jacobs, Miller and Cook",39,1,1755.44,30,Retail,3.8,0
+INV-2131,"Jacobs, Lucero and Howard",12,1,10450.08,45,Healthcare,3.3,0
+INV-2132,Powell-Martinez,45,0,8103.73,15,Retail,4.5,0
+INV-2133,Moore-Bell,16,0,7284.79,30,Consulting,1.7,0
+INV-2134,"Smith, Barnes and Vazquez",18,1,10135.31,30,Healthcare,1.6,1
+INV-2135,"Bryant, Keith and Haynes",57,0,14764.96,30,Construction,3.9,0
+INV-2136,Smith Ltd,58,1,11665.16,45,Retail,2.1,0
+INV-2137,Hodges-Mccarthy,56,2,4731.7,30,Tech,3.6,0
+INV-2138,"Braun, Wood and Rios",28,3,7871.19,15,Healthcare,2.8,1
+INV-2139,Scott Ltd,34,0,12995.21,30,Consulting,3.0,0
+INV-2140,"Bennett, Wood and Stone",51,1,12924.27,30,Healthcare,2.8,0
+INV-2141,Murphy PLC,13,3,1694.03,30,Consulting,4.8,0
+INV-2142,"Andrews, Edwards and Ali",46,1,7621.33,45,Construction,1.9,1
+INV-2143,Khan Ltd,29,2,2801.6,60,Healthcare,1.6,0
+INV-2144,Smith-Henry,6,2,7673.01,45,Construction,1.7,0
+INV-2145,Roach-Mckenzie,41,1,4123.32,45,Construction,3.9,0
+INV-2146,Gonzalez-Martin,47,0,7872.31,60,Healthcare,1.5,0
+INV-2147,Vasquez Ltd,31,4,12843.02,15,Healthcare,4.1,1
+INV-2148,Harris-Walker,27,5,2147.17,45,Tech,2.2,1
+INV-2149,"Griffith, Ray and Parrish",16,0,11516.72,45,Construction,2.1,0
+INV-2150,Collins-Mcfarland,59,1,9274.92,60,Retail,4.5,0
+INV-2151,"Young, Williams and Simpson",24,1,9078.31,30,Tech,3.8,1
+INV-2152,Parsons PLC,37,0,10094.49,15,Construction,4.5,0
+INV-2153,"Brown, Daniel and Brown",29,3,6045.19,60,Construction,2.0,1
+INV-2154,"Perez, Swanson and Townsend",56,0,10861.52,30,Tech,2.8,0
+INV-2155,"Freeman, Duran and Potts",54,1,11224.01,45,Tech,1.3,0
+INV-2156,Martinez-Frye,27,1,5453.93,60,Consulting,2.3,0
+INV-2157,"Bennett, Wells and Payne",7,0,1261.63,30,Healthcare,3.6,0
+INV-2158,Quinn-Shepard,21,0,11424.09,45,Construction,3.4,0
+INV-2159,Banks-Byrd,59,6,5247.1,60,Healthcare,4.8,1
+INV-2160,"Rogers, Horne and May",6,0,7493.16,60,Tech,1.6,0
+INV-2161,"Gonzalez, Miller and Dean",2,2,5728.4,45,Tech,3.7,0
+INV-2162,"Johnson, Jimenez and Jenkins",20,1,7304.27,30,Consulting,2.6,0
+INV-2163,Leonard Inc,33,1,1182.8,60,Tech,5.0,0
+INV-2164,Ruiz Group,54,1,4946.85,15,Consulting,4.5,0
+INV-2165,Schmidt and Sons,28,1,3068.08,15,Retail,1.9,0
+INV-2166,Conley Inc,58,1,8727.16,15,Retail,3.2,0
+INV-2167,Erickson-Richards,54,2,4163.06,60,Tech,2.8,0
+INV-2168,Davis Inc,22,3,400.06,30,Retail,1.6,0
+INV-2169,"Sanchez, Turner and Miller",26,0,13155.38,30,Retail,3.8,0
+INV-2170,Whitney-Mendoza,1,2,11028.86,30,Consulting,1.6,0
+INV-2171,Beard-Jones,16,3,9141.77,60,Construction,1.5,1
+INV-2172,"Singleton, Castro and Kemp",39,0,5568.95,15,Consulting,2.0,0
+INV-2173,Love PLC,54,0,14809.08,60,Healthcare,3.2,0
+INV-2174,"Wilson, Serrano and Berry",50,1,13444.06,15,Retail,1.1,1
+INV-2175,Butler-Taylor,31,0,12191.84,60,Retail,3.1,0
+INV-2176,"Brooks, Nelson and Ortega",28,2,472.04,15,Consulting,3.8,0
+INV-2177,"Hunt, Williams and Huerta",12,2,3408.85,45,Consulting,3.7,0
+INV-2178,"Keith, Johnson and Carlson",58,1,1524.9,45,Retail,2.7,0
+INV-2179,Coleman Inc,19,2,2890.77,60,Tech,1.3,0
+INV-2180,Harris-Smith,10,2,9866.42,15,Retail,1.6,1
+INV-2181,"Rodriguez, Bryant and Parker",44,1,10053.61,30,Tech,2.1,1
+INV-2182,Thomas Ltd,35,0,6588.57,30,Consulting,4.3,0
+INV-2183,"Ortiz, Reid and Terrell",19,1,2085.64,45,Construction,3.6,0
+INV-2184,Callahan-Thomas,4,4,11456.98,45,Healthcare,1.7,1
+INV-2185,Goodwin LLC,26,1,9139.27,15,Construction,4.5,0
+INV-2186,"Williams, Davis and Jackson",47,3,14945.19,60,Healthcare,4.4,1
+INV-2187,Williams-Taylor,44,1,12581.98,30,Tech,3.6,0
+INV-2188,"Pena, Perry and Thomas",38,1,5175.17,45,Retail,2.2,0
+INV-2189,Crane-Davis,33,2,13098.97,15,Retail,2.8,0
+INV-2190,"Ho, Huffman and Turner",50,0,10937.07,60,Healthcare,1.3,0
+INV-2191,Morales Inc,34,3,1818.47,60,Consulting,2.6,1
+INV-2192,"Lewis, Ruiz and Weaver",23,2,1274.11,60,Retail,4.4,0
+INV-2193,"Atkins, Foster and Rangel",52,2,11927.38,15,Tech,1.9,0
+INV-2194,Burns-Johnson,1,1,9179.0,15,Healthcare,4.7,0
+INV-2195,Baker and Sons,52,3,10873.16,60,Construction,3.6,1
+INV-2196,Davis-Cervantes,16,2,8863.56,15,Consulting,3.2,0
+INV-2197,"Rose, Poole and Harris",21,0,3523.82,15,Tech,3.0,0
+INV-2198,"Zuniga, King and Moreno",32,1,3097.04,30,Consulting,4.3,0
+INV-2199,Miller Ltd,33,0,8945.56,60,Construction,5.0,0
+INV-2200,Hernandez LLC,42,2,14138.88,15,Retail,3.4,0
+INV-2201,"Tate, Washington and Ibarra",56,2,6854.06,45,Consulting,1.8,0
+INV-2202,Wilson-Jacobs,45,1,12358.73,15,Tech,1.1,0
+INV-2203,Frey-Cannon,31,3,12345.5,45,Retail,1.2,1
+INV-2204,Thomas Inc,19,3,6299.03,30,Consulting,1.9,1
+INV-2205,Leonard Ltd,59,2,219.01,30,Healthcare,1.5,1
+INV-2206,Brandt-Brown,17,1,3486.82,15,Construction,4.3,0
+INV-2207,"Rogers, Caldwell and Brown",41,3,14855.29,30,Consulting,1.8,1
+INV-2208,"Matthews, Rodriguez and Hughes",3,1,4707.72,30,Consulting,1.7,0
+INV-2209,"Ray, Robinson and Henderson",47,1,2980.97,60,Consulting,3.5,0
+INV-2210,"Little, Cherry and Johnson",38,2,13345.5,45,Healthcare,4.4,0
+INV-2211,Garcia-Valenzuela,29,3,12943.29,30,Retail,3.3,1
+INV-2212,"Ellis, Owens and Gibbs",41,2,5718.57,45,Retail,1.6,0
+INV-2213,Payne Ltd,27,2,14757.24,15,Healthcare,3.7,0
+INV-2214,"White, Higgins and Turner",23,1,2105.46,30,Retail,3.2,0
+INV-2215,"Rice, Peterson and Smith",37,0,10399.32,45,Consulting,3.1,0
+INV-2216,Ewing Group,36,3,13378.95,60,Construction,3.3,1
+INV-2217,"Nunez, James and Hodge",12,3,767.75,15,Construction,3.5,1
+INV-2218,Lopez-Cunningham,5,1,10134.08,60,Healthcare,1.1,0
+INV-2219,"Smith, Gallegos and Hoffman",37,2,13265.98,30,Construction,3.1,1
+INV-2220,Abbott-Lane,56,3,4150.11,60,Healthcare,4.7,1
+INV-2221,Dyer LLC,15,1,11567.72,30,Consulting,4.0,0
+INV-2222,"Hardin, Rios and Walter",49,3,2294.51,60,Retail,4.5,0
+INV-2223,Mccarthy Ltd,43,2,4303.42,45,Tech,5.0,0
+INV-2224,Rogers Ltd,37,0,8493.9,15,Retail,3.8,0
+INV-2225,"Barton, Guerrero and Johnson",54,3,5627.93,45,Tech,1.9,1
+INV-2226,Anderson-Woodward,54,1,2339.78,60,Tech,3.8,0
+INV-2227,Bailey PLC,51,2,11273.93,60,Construction,4.6,0
+INV-2228,Brown-Elliott,40,0,6439.0,45,Retail,3.8,0
+INV-2229,"Morris, Harvey and Barnes",22,0,211.68,15,Retail,4.2,0
+INV-2230,"Walsh, Russell and Nichols",16,3,8781.55,45,Healthcare,1.7,0
+INV-2231,Johnson-Figueroa,31,1,9071.57,45,Construction,1.7,0
+INV-2232,"Simpson, Sutton and Mathis",44,0,13837.01,15,Tech,1.5,0
+INV-2233,Miller Group,28,2,14428.46,15,Tech,3.4,0
+INV-2234,Perry-Green,18,0,9284.92,60,Healthcare,1.4,0
+INV-2235,"Austin, Murphy and May",57,4,5213.5,60,Retail,2.9,1
+INV-2236,Mills Inc,22,1,5146.39,15,Retail,1.1,1
+INV-2237,"Robinson, Potter and Cook",35,3,9649.14,45,Consulting,2.1,1
+INV-2238,"Jarvis, Miller and Morgan",7,1,13878.43,15,Consulting,1.1,1
+INV-2239,Parks Inc,33,2,210.61,45,Healthcare,4.7,1
+INV-2240,Nicholson-Larsen,55,1,4186.52,15,Construction,4.2,1
+INV-2241,Garcia and Sons,47,0,1783.47,60,Healthcare,3.9,0
+INV-2242,Snow-Morales,30,2,6345.16,15,Consulting,3.5,0
+INV-2243,White-Stewart,31,1,14119.95,30,Consulting,4.6,0
+INV-2244,Smith Group,43,4,12850.16,30,Healthcare,4.7,1
+INV-2245,Simpson and Sons,4,0,3166.94,30,Tech,2.7,0
+INV-2246,Swanson and Sons,4,0,8017.75,45,Construction,3.6,0
+INV-2247,"Johnson, Jordan and Lee",41,2,7077.4,45,Healthcare,4.3,1
+INV-2248,Avery-Jones,51,1,13709.25,30,Retail,1.5,0
+INV-2249,Carter-Evans,40,1,8650.68,30,Healthcare,2.6,0
+INV-2250,Navarro-Williams,40,0,3110.99,45,Healthcare,1.2,0
+INV-2251,"Rodriguez, Flores and Washington",32,0,6564.82,45,Healthcare,4.9,0
+INV-2252,"Thomas, Hughes and Baker",9,0,12620.28,15,Construction,1.1,1
+INV-2253,Robbins-Roberts,50,1,5951.76,45,Tech,2.7,1
+INV-2254,Cross LLC,26,2,1748.98,60,Consulting,4.3,0
+INV-2255,"Soto, Maxwell and Webb",47,3,1312.99,30,Healthcare,3.8,0
+INV-2256,Williams and Sons,35,3,13296.92,15,Tech,3.3,0
+INV-2257,White PLC,13,1,4781.48,45,Retail,2.2,0
+INV-2258,Fitzgerald-Fletcher,55,1,13233.63,60,Construction,2.7,0
+INV-2259,Humphrey LLC,1,2,7197.82,60,Construction,3.6,0
+INV-2260,Ramos-Hernandez,38,2,1377.9,60,Construction,4.8,0
+INV-2261,"Harris, Vaughan and Lopez",27,1,1605.31,60,Consulting,3.9,0
+INV-2262,Cunningham-Richardson,23,1,4085.13,30,Construction,1.5,1
+INV-2263,Scott-Hart,6,1,8536.19,45,Consulting,3.6,0
+INV-2264,Phillips-Jones,41,0,5844.85,30,Healthcare,1.6,0
+INV-2265,"Peterson, Martinez and Lloyd",55,2,1368.91,45,Tech,3.8,0
+INV-2266,Morrow LLC,38,4,771.16,60,Construction,4.5,1
+INV-2267,"Howe, Kramer and Perry",4,1,587.14,45,Healthcare,3.8,0
+INV-2268,"Robinson, Rodriguez and Carlson",29,4,13606.57,30,Construction,3.1,1
+INV-2269,Perry-Cook,15,3,4783.99,60,Construction,2.9,1
+INV-2270,"Maxwell, Bell and Lloyd",13,4,3580.7,60,Construction,2.1,1
+INV-2271,Hernandez Group,34,1,4527.39,15,Consulting,3.8,0
+INV-2272,Blackburn-Mayo,25,2,13854.07,30,Consulting,3.3,1
+INV-2273,"Jones, Farley and Thomas",45,0,10175.31,30,Consulting,1.2,0
+INV-2274,Burch-Scott,14,2,10220.69,15,Healthcare,4.1,1
+INV-2275,Anderson-Coleman,10,1,3897.84,30,Healthcare,2.3,0
+INV-2276,"Farley, Olson and Gutierrez",10,1,6210.02,45,Retail,4.3,0
+INV-2277,Perez-Potter,6,0,9241.43,60,Healthcare,2.5,0
+INV-2278,Gutierrez-Ramirez,57,0,11956.89,30,Construction,1.4,0
+INV-2279,"Jones, Li and Schmidt",10,1,6962.69,30,Construction,4.8,0
+INV-2280,"Peterson, Hunter and James",26,2,10671.34,30,Healthcare,1.1,1
+INV-2281,Curtis and Sons,32,3,2911.33,60,Retail,3.6,0
+INV-2282,Perkins Inc,22,2,14240.08,60,Consulting,1.7,0
+INV-2283,Berg LLC,17,0,3765.0,60,Consulting,1.5,0
+INV-2284,"Holmes, Moss and Reyes",33,3,9221.02,60,Consulting,3.3,1
+INV-2285,"Mayo, Weaver and Rivera",23,2,13415.88,60,Consulting,2.8,0
+INV-2286,Jones-Rodriguez,51,2,13286.83,15,Construction,4.5,1
+INV-2287,"Bowers, Davis and Johnson",6,0,4938.76,15,Retail,4.7,0
+INV-2288,"Clark, Allen and Coleman",10,0,6723.17,30,Construction,3.3,0
+INV-2289,Brooks and Sons,4,3,9474.55,30,Consulting,3.7,1
+INV-2290,Perkins Ltd,58,2,6241.92,15,Consulting,2.1,0
+INV-2291,Johnson-Thomas,16,5,5204.47,60,Construction,1.4,1
+INV-2292,"Hoffman, Webster and Ryan",59,2,11719.9,60,Retail,3.4,0
+INV-2293,Walker-Acevedo,22,0,6064.46,15,Retail,4.9,0
+INV-2294,Bennett-Edwards,22,2,6161.09,45,Tech,1.1,1
+INV-2295,Rivas-Walker,6,2,3933.34,30,Healthcare,3.1,0
+INV-2296,"Dickson, Mathis and Davis",4,0,14156.71,45,Healthcare,4.2,0
+INV-2297,"Schmidt, Peterson and Davis",36,0,10232.84,60,Consulting,3.3,0
+INV-2298,"Taylor, Barnes and Walters",19,0,6425.33,30,Construction,2.9,0
+INV-2299,Brown Ltd,55,1,14803.11,15,Healthcare,3.5,0
+INV-2300,Grimes-Reed,28,2,9643.77,15,Construction,2.2,1
+INV-2301,Mullen LLC,21,0,13050.8,60,Retail,2.2,0
+INV-2302,Hansen Ltd,43,0,14937.88,15,Tech,2.2,0
+INV-2303,"Thornton, Frost and Higgins",58,1,2200.71,45,Construction,3.8,0
+INV-2304,Fisher-Greene,18,0,5791.39,45,Healthcare,2.3,0
+INV-2305,Bates and Sons,24,2,13977.29,30,Consulting,1.4,1
+INV-2306,Williams-Warren,10,1,2080.1,60,Construction,1.2,0
+INV-2307,Nichols Group,20,4,1770.66,60,Retail,3.8,1
+INV-2308,Montoya-Morgan,47,1,13094.9,60,Healthcare,1.8,0
+INV-2309,"Medina, James and Hansen",42,3,4836.48,45,Retail,3.1,0
+INV-2310,"Griffin, Garza and Flowers",29,0,6752.92,45,Retail,2.0,0
+INV-2311,Harper PLC,2,1,10107.3,15,Retail,1.9,0
+INV-2312,Carson PLC,37,0,5983.14,45,Retail,4.2,0
+INV-2313,"Schmidt, Williams and Walker",58,2,3926.86,30,Tech,4.9,0
+INV-2314,Scott PLC,57,1,7565.78,30,Consulting,2.9,0
+INV-2315,Simpson Group,12,2,5268.63,30,Construction,1.4,0
+INV-2316,Taylor-Hunt,7,0,13308.39,60,Healthcare,3.6,0
+INV-2317,Wagner-Henderson,34,3,8899.37,30,Healthcare,4.4,0
+INV-2318,Rodriguez-Carter,12,4,11811.14,30,Tech,1.4,1
+INV-2319,Rose-Green,58,2,12462.25,60,Healthcare,4.2,0
+INV-2320,"Robertson, Bowers and Aguilar",9,1,2045.52,15,Consulting,3.3,0
+INV-2321,Banks-Jones,23,1,631.73,30,Healthcare,3.4,0
+INV-2322,Stewart-Hernandez,58,2,2743.73,60,Healthcare,1.2,1
+INV-2323,Spears Ltd,37,0,12414.56,15,Tech,1.5,0
+INV-2324,Cummings-Ross,44,2,2821.4,30,Construction,2.7,0
+INV-2325,"Smith, Navarro and Jones",4,2,11819.06,15,Consulting,4.3,0
+INV-2326,Garcia Group,44,0,594.82,15,Consulting,1.0,0
+INV-2327,Johnson Ltd,34,2,12816.1,30,Construction,3.2,1
+INV-2328,"Bates, Spencer and Sullivan",12,3,8011.55,45,Tech,5.0,0
+INV-2329,Forbes-Anderson,16,2,6820.52,60,Retail,4.2,1
+INV-2330,Anderson-Beck,14,1,7245.67,45,Healthcare,3.8,0
+INV-2331,King Inc,50,1,3557.19,45,Consulting,3.3,1
+INV-2332,Thompson-Gutierrez,8,1,8889.57,60,Consulting,1.3,0
+INV-2333,Wilson-Edwards,22,2,1534.9,60,Consulting,3.4,1
+INV-2334,"Price, Dixon and Mclean",6,2,1155.13,15,Construction,3.3,0
+INV-2335,Osborne PLC,48,4,6926.34,45,Healthcare,1.8,1
+INV-2336,Ramos-Nichols,7,1,223.45,30,Construction,3.1,0
+INV-2337,Conrad LLC,26,0,11676.06,15,Tech,3.3,0
+INV-2338,Welch-Grant,16,2,9529.89,45,Retail,4.6,1
+INV-2339,"Brewer, Rangel and Reid",40,0,14790.7,30,Construction,2.2,0
+INV-2340,Rogers-Johnson,1,0,10748.76,15,Tech,1.2,0
+INV-2341,"Brown, Taylor and Wilkins",28,1,527.59,45,Tech,3.6,0
+INV-2342,Jacobs and Sons,47,0,11260.27,60,Healthcare,1.2,0
+INV-2343,Moore-Warren,44,3,11827.87,30,Consulting,3.7,1
+INV-2344,Greer-Nelson,24,5,12681.93,60,Healthcare,1.8,1
+INV-2345,Ortiz-Wells,40,1,14934.94,30,Healthcare,2.0,1
+INV-2346,Wilson-Bailey,39,1,14468.0,30,Consulting,1.4,1
+INV-2347,Mitchell-Thomas,22,3,3869.4,30,Healthcare,4.7,1
+INV-2348,Powell Group,15,1,2223.68,45,Tech,4.1,0
+INV-2349,Miller Inc,34,2,4878.35,30,Construction,2.7,1
+INV-2350,Rice-Jones,15,4,1921.96,60,Consulting,2.4,1
+INV-2351,Juarez-Collins,7,1,3932.6,15,Construction,4.8,0
+INV-2352,Herrera-Palmer,18,1,2609.09,15,Healthcare,3.0,0
+INV-2353,Green-Ferrell,7,1,6772.87,30,Tech,4.1,0
+INV-2354,"Briggs, Hall and Torres",31,2,5972.24,60,Consulting,2.6,0
+INV-2355,Smith-Owen,28,0,13335.93,60,Healthcare,2.9,0
+INV-2356,Smith-Owen,12,2,12918.13,60,Healthcare,3.4,1
+INV-2357,"Miller, Beltran and Mcconnell",15,1,1616.21,60,Healthcare,4.7,0
+INV-2358,Davis LLC,45,1,2672.42,30,Retail,5.0,0
+INV-2359,Jones Group,4,2,13481.8,15,Tech,3.6,1
+INV-2360,"Rosales, Scott and Pineda",56,2,7419.78,45,Retail,2.3,0
+INV-2361,"Gomez, Smith and Baxter",2,2,5066.27,45,Tech,3.6,0
+INV-2362,Richmond Ltd,9,0,4195.61,45,Tech,4.1,0
+INV-2363,Baker and Sons,49,1,11684.46,60,Consulting,4.2,0
+INV-2364,"Lewis, Lee and Rangel",15,2,6162.77,60,Consulting,4.6,0
+INV-2365,Rose and Sons,37,0,5628.73,15,Consulting,2.6,0
+INV-2366,Smith-Patel,47,3,6882.9,15,Construction,2.6,0
+INV-2367,"Manning, Campos and Combs",57,0,5670.72,45,Consulting,2.3,0
+INV-2368,Smith-Graham,53,1,3649.19,15,Healthcare,4.8,0
+INV-2369,"Stevens, Bruce and Smith",52,3,6571.31,30,Healthcare,2.9,1
+INV-2370,Thomas-Harris,42,0,715.03,15,Tech,2.6,0
+INV-2371,"Phillips, Lee and Steele",3,3,5803.91,45,Retail,2.7,0
+INV-2372,Mahoney-Wright,4,1,6847.39,60,Construction,2.8,0
+INV-2373,Graham Ltd,12,4,6723.33,45,Retail,2.9,1
+INV-2374,Wright and Sons,52,0,2505.12,60,Retail,4.5,0
+INV-2375,Brown Ltd,59,3,2741.17,30,Tech,3.6,0
+INV-2376,Ruiz-Stein,18,2,7565.21,45,Consulting,1.9,0
+INV-2377,"Kelley, Rodriguez and Flores",10,1,6102.85,60,Tech,4.6,0
+INV-2378,"Thomas, Smith and Perez",13,1,9172.01,30,Tech,2.3,0
+INV-2379,Cohen Group,22,1,7951.63,30,Retail,1.1,0
+INV-2380,"Abbott, Collins and Russell",33,1,7880.27,45,Consulting,3.4,0
+INV-2381,Scott Group,20,1,5377.78,45,Consulting,3.5,0
+INV-2382,Vaughn-Powers,38,1,7665.43,30,Construction,4.0,0
+INV-2383,Walker-Jackson,40,3,11192.28,45,Construction,4.4,1
+INV-2384,"Sweeney, Alexander and Adkins",39,3,4836.11,45,Consulting,4.0,0
+INV-2385,"Gardner, Lee and Sanchez",12,3,9928.32,15,Tech,2.7,0
+INV-2386,Mcclain Inc,27,1,6921.68,60,Retail,2.5,0
+INV-2387,Floyd-Johnson,57,0,6506.51,45,Tech,2.2,0
+INV-2388,Bishop Ltd,35,1,998.2,30,Tech,3.1,0
+INV-2389,"Blair, Dennis and Jackson",3,4,11703.97,30,Construction,4.3,1
+INV-2390,"Ramos, Stewart and Lawrence",54,1,5047.98,30,Healthcare,1.8,0
+INV-2391,"Howard, Young and Williams",21,1,3884.15,60,Tech,3.4,0
+INV-2392,"Thomas, Ross and Simmons",21,1,6098.68,45,Healthcare,1.7,0
+INV-2393,Ray-Velasquez,54,0,8121.74,60,Healthcare,3.8,0
+INV-2394,Gray-Keller,16,2,5216.75,15,Retail,1.6,0
+INV-2395,Lee and Sons,45,1,438.4,60,Consulting,1.5,0
+INV-2396,Rodriguez Inc,31,0,10089.07,45,Construction,4.6,0
+INV-2397,Hill PLC,48,0,7604.94,60,Healthcare,2.9,0
+INV-2398,Stone Inc,58,2,7315.64,45,Consulting,5.0,1
+INV-2399,Adams-Howard,54,0,7924.64,15,Retail,1.6,0
+INV-2400,"Rocha, Lin and Greene",16,0,6148.89,60,Construction,4.4,0
+INV-2401,"Dickerson, Ward and Perez",44,0,11439.54,15,Consulting,2.3,0
+INV-2402,Sparks PLC,48,1,14893.5,60,Tech,1.5,1
+INV-2403,Bailey-Wilson,45,3,9900.15,60,Tech,1.0,0
+INV-2404,"Brown, Travis and Holden",18,1,7645.41,60,Construction,3.3,0
+INV-2405,Lopez-Richardson,30,0,1423.47,45,Construction,1.5,0
+INV-2406,Craig-Wells,5,3,13817.68,45,Consulting,2.9,0
+INV-2407,Graham Ltd,55,2,6922.57,30,Consulting,2.0,0
+INV-2408,Hendricks-Estrada,26,2,10489.4,60,Construction,2.7,1
+INV-2409,Pham LLC,23,2,1656.83,15,Retail,4.7,0
+INV-2410,Jackson Inc,58,0,1604.29,15,Healthcare,2.3,0
+INV-2411,Russell-Rodriguez,49,4,307.64,15,Retail,1.2,1
+INV-2412,Mooney Group,25,1,4232.51,30,Healthcare,4.3,0
+INV-2413,Fowler-Houston,39,2,14145.06,60,Retail,3.1,1
+INV-2414,"Swanson, Garcia and Stewart",12,3,9179.45,60,Tech,3.5,1
+INV-2415,Collins LLC,41,0,6536.23,30,Construction,1.8,0
+INV-2416,"Sandoval, Barrett and Wood",56,1,1440.3,30,Construction,2.9,0
+INV-2417,"Perez, Rubio and Lynch",49,1,12959.14,15,Construction,4.4,0
+INV-2418,Hanna-Smith,25,1,8996.11,45,Retail,3.4,0
+INV-2419,"Johnson, Clark and Hansen",36,1,3249.52,45,Tech,1.6,0
+INV-2420,Anderson-Smith,52,0,13424.31,15,Healthcare,2.6,0
+INV-2421,Anderson-Gonzales,57,3,11766.54,45,Tech,4.7,0
+INV-2422,Shaw Group,28,1,6098.78,60,Retail,1.7,0
+INV-2423,Myers-Garcia,4,0,8517.32,15,Retail,1.9,0
+INV-2424,Bridges PLC,42,2,6867.94,30,Healthcare,1.0,1
+INV-2425,"Matthews, Turner and Bennett",21,1,6498.34,15,Tech,3.2,0
+INV-2426,"Gordon, Campbell and Leon",4,1,1378.75,30,Consulting,2.7,0
+INV-2427,"Obrien, Ramirez and Martin",22,2,11443.88,60,Retail,4.1,1
+INV-2428,Price-Jones,10,1,10508.31,15,Construction,2.5,0
+INV-2429,"Smith, Rodriguez and Williams",51,3,14286.13,15,Healthcare,4.2,1
+INV-2430,Campbell-Shaw,40,0,13992.77,30,Healthcare,4.7,0
+INV-2431,Nash and Sons,57,3,2591.65,15,Tech,1.5,1
+INV-2432,Livingston-Khan,33,1,1441.69,60,Retail,1.2,0
+INV-2433,"Pope, Rose and Lang",59,2,10321.62,15,Retail,4.2,0
+INV-2434,Hardy LLC,28,1,7861.06,45,Construction,2.5,0
+INV-2435,Murphy Inc,7,0,814.19,45,Tech,2.1,0
+INV-2436,"Glover, Lester and Abbott",26,2,10849.46,60,Tech,1.4,1
+INV-2437,"Watson, May and May",10,1,6560.11,30,Retail,2.7,0
+INV-2438,"Collier, Cooper and Sims",48,1,6078.97,15,Consulting,3.3,0
+INV-2439,"Martinez, Moore and Williamson",10,1,12628.52,30,Healthcare,5.0,0
+INV-2440,Caldwell Inc,15,2,3457.63,45,Tech,1.8,0
+INV-2441,"Bond, Jensen and Bennett",16,0,12405.28,30,Healthcare,2.1,0
+INV-2442,"Reeves, Harris and Salinas",44,0,2150.79,60,Tech,4.5,0
+INV-2443,Hurley-Mason,22,3,867.72,15,Retail,4.7,1
+INV-2444,"Stevens, Atkinson and Hawkins",13,1,5095.74,30,Retail,4.0,0
+INV-2445,Carter Ltd,13,2,5807.53,60,Construction,1.1,0
+INV-2446,"Levy, Mullen and Torres",21,2,13107.17,60,Construction,2.2,1
+INV-2447,Velez Group,28,0,2046.09,30,Tech,1.8,0
+INV-2448,George Ltd,16,1,12206.21,45,Retail,1.9,0
+INV-2449,Williams-Jordan,29,1,818.96,30,Consulting,3.5,0
+INV-2450,Thomas-Shannon,24,5,9930.18,45,Retail,4.6,1
+INV-2451,Gomez-Graham,10,3,8119.78,45,Tech,3.8,1
+INV-2452,Mcconnell-Garcia,46,1,8372.89,30,Healthcare,3.6,0
+INV-2453,Hernandez Inc,18,3,2719.98,45,Retail,3.5,0
+INV-2454,"Benitez, Scott and Wood",40,1,6256.11,30,Healthcare,3.2,0
+INV-2455,"Watson, Dodson and Mitchell",42,2,9910.45,60,Retail,1.8,1
+INV-2456,Hernandez LLC,25,3,11583.71,30,Healthcare,2.5,1
+INV-2457,Barber Ltd,1,0,4135.25,15,Consulting,2.8,0
+INV-2458,Shea-King,24,0,1326.28,15,Construction,2.1,0
+INV-2459,Miller Group,51,1,907.44,45,Tech,1.8,0
+INV-2460,Russell Inc,41,0,10206.9,60,Consulting,3.8,0
+INV-2461,"Thornton, Johnson and Guerrero",5,3,8408.03,60,Construction,4.4,1
+INV-2462,Stephens-Murphy,57,1,11133.91,30,Healthcare,4.8,0
+INV-2463,"Combs, Lopez and Lee",31,1,13153.11,15,Retail,3.0,1
+INV-2464,"Li, Pierce and Brooks",49,0,7616.57,15,Retail,3.7,0
+INV-2465,Williams Group,5,2,9544.39,45,Tech,3.4,1
+INV-2466,Martin-Smith,38,3,1576.85,15,Retail,3.4,0
+INV-2467,Faulkner-Jackson,54,2,6835.83,60,Consulting,2.0,0
+INV-2468,Guzman PLC,25,1,13933.43,45,Consulting,2.8,0
+INV-2469,Mcbride-Leonard,6,1,2071.91,60,Healthcare,2.7,0
+INV-2470,Harris PLC,50,3,13740.32,60,Retail,3.0,0
+INV-2471,"Norman, Jenkins and Erickson",25,3,3401.25,30,Construction,4.2,0
+INV-2472,Mcguire and Sons,26,1,11667.9,15,Construction,1.5,0
+INV-2473,Ortega-Cunningham,3,1,11526.92,15,Consulting,4.1,0
+INV-2474,Wright Group,48,1,4479.84,30,Tech,2.2,1
+INV-2475,Hill-Edwards,55,0,12195.64,45,Healthcare,4.9,0
+INV-2476,Martinez-Santana,48,1,1380.88,15,Construction,2.7,0
+INV-2477,Burke LLC,57,4,9471.99,60,Tech,4.2,1
+INV-2478,"Lozano, Brown and Guerra",13,2,14240.83,15,Tech,4.6,0
+INV-2479,Gutierrez Group,48,0,590.48,15,Healthcare,4.2,0
+INV-2480,"Higgins, Snyder and Adams",21,3,3935.72,15,Healthcare,3.9,0
+INV-2481,Thompson-Martin,37,2,8417.9,15,Construction,1.4,0
+INV-2482,Smith-Blevins,56,3,9320.02,30,Retail,3.0,1
+INV-2483,Taylor Ltd,54,2,5198.12,15,Tech,4.2,0
+INV-2484,Lambert-Bullock,47,2,2238.89,15,Tech,2.5,0
+INV-2485,Moreno-Wallace,6,1,10175.22,60,Construction,3.2,0
+INV-2486,"Wilson, Martin and Fisher",25,1,3917.14,45,Tech,3.4,0
+INV-2487,Russell Inc,54,1,5346.52,45,Tech,4.5,0
+INV-2488,"Gomez, Hall and Lee",1,1,7795.59,45,Retail,3.3,0
+INV-2489,Contreras-Valenzuela,42,2,3071.11,15,Construction,2.1,0
+INV-2490,Price LLC,19,2,9305.38,60,Construction,2.8,1
+INV-2491,"Mcfarland, Guzman and Nichols",40,1,3850.99,15,Construction,3.8,0
+INV-2492,"Jones, Ford and Young",46,1,636.25,15,Healthcare,1.7,0
+INV-2493,Robertson-Richmond,7,2,8327.33,60,Consulting,4.8,0
+INV-2494,Mendoza-Johnson,37,1,9579.76,45,Retail,2.1,0
+INV-2495,Clayton Group,4,1,10366.53,60,Consulting,2.2,1
+INV-2496,Glover LLC,28,0,4819.5,30,Construction,1.1,0
+INV-2497,Campbell and Sons,36,0,7724.41,30,Construction,1.6,0
+INV-2498,Bentley Inc,57,0,1077.77,15,Consulting,2.2,0
+INV-2499,"Powell, Day and Thomas",2,1,7858.42,15,Tech,4.7,0
+INV-2500,Coleman-Sims,7,3,14979.25,15,Retail,3.5,1
+INV-2501,"Villarreal, Jarvis and Andrews",5,1,10576.89,15,Tech,2.2,0
+INV-2502,"Edwards, Pena and Owens",17,1,10507.28,15,Healthcare,1.7,0
+INV-2503,Gonzalez and Sons,6,0,3715.24,45,Healthcare,2.5,0
+INV-2504,Gonzalez-Robertson,20,0,9099.49,30,Tech,3.3,0
+INV-2505,Wilson-Bell,22,0,2996.16,15,Consulting,4.4,0
+INV-2506,"Mathews, Clark and Wade",10,2,5257.34,60,Tech,3.7,1
+INV-2507,West Inc,9,2,12562.54,45,Tech,2.3,0
+INV-2508,"Ford, Little and Armstrong",37,2,13789.26,60,Construction,4.3,0
+INV-2509,Spears and Sons,47,1,315.2,45,Retail,4.0,0
+INV-2510,"Norton, Phillips and Lawson",54,1,2957.49,45,Retail,1.4,0
+INV-2511,Blake-Jones,24,1,12513.45,15,Tech,3.3,0
+INV-2512,"Glenn, Alvarado and Lopez",49,1,14349.09,30,Consulting,1.9,1
+INV-2513,"Martinez, Haynes and Cook",48,3,576.23,15,Healthcare,1.2,1
+INV-2514,Dickerson Ltd,3,0,8259.06,15,Healthcare,3.1,0
+INV-2515,Lewis-Foster,17,0,3795.93,45,Construction,3.6,0
+INV-2516,Watkins Inc,34,1,4970.61,45,Retail,3.4,0
+INV-2517,Henson-Gordon,53,1,14688.16,60,Retail,1.7,0
+INV-2518,"Noble, Harmon and Davis",57,1,14014.52,45,Tech,2.5,0
+INV-2519,"Smith, Banks and Day",51,3,1224.61,45,Consulting,1.8,1
+INV-2520,Foster Ltd,7,1,5145.22,45,Consulting,1.4,0
+INV-2521,Ryan-Skinner,47,2,14001.64,30,Healthcare,2.0,0
+INV-2522,"Foster, Cruz and Vaughan",33,0,7670.36,45,Consulting,3.8,0
+INV-2523,"Silva, Boone and Becker",8,1,9986.25,60,Tech,3.8,0
+INV-2524,Bell and Sons,26,4,1715.44,30,Tech,1.2,1
+INV-2525,"Rodriguez, Buckley and Mcintosh",22,1,3933.58,15,Healthcare,1.6,0
+INV-2526,"Reyes, Hammond and Schultz",21,1,410.19,15,Tech,1.6,0
+INV-2527,Parsons-Kramer,27,1,11906.86,45,Retail,3.0,0
+INV-2528,Washington-Day,40,1,10676.36,45,Retail,1.6,0
+INV-2529,"Herrera, Johnson and Jones",24,0,849.79,60,Construction,3.6,0
+INV-2530,"Morgan, Shelton and Clark",5,1,3808.87,15,Tech,1.6,0
+INV-2531,Perry Inc,53,1,14743.79,30,Healthcare,4.4,0
+INV-2532,Arroyo-Villa,38,0,13837.22,60,Retail,2.7,0
+INV-2533,Torres Ltd,57,2,9011.26,30,Construction,4.5,0
+INV-2534,"Hernandez, Welch and Reed",59,4,13718.51,15,Retail,2.1,1
+INV-2535,"Bell, Sanders and Davis",35,2,2155.99,30,Consulting,2.5,0
+INV-2536,Lyons-Estrada,21,3,8072.94,60,Construction,3.0,1
+INV-2537,Williams-Parsons,15,3,9696.8,60,Retail,4.3,1
+INV-2538,Price Ltd,21,2,9083.74,15,Consulting,1.5,0
+INV-2539,"Lara, Hansen and Anderson",33,3,5941.69,30,Healthcare,1.6,1
+INV-2540,Jacobs-Jennings,21,1,7795.93,15,Consulting,3.3,0
+INV-2541,Smith-Guzman,13,0,4832.78,15,Healthcare,4.3,0
+INV-2542,Cooper-Ruiz,13,2,3995.37,30,Tech,1.0,0
+INV-2543,"Stout, Anderson and Jacobs",3,2,8369.87,45,Construction,1.9,0
+INV-2544,Thompson-Knight,36,0,6132.51,45,Healthcare,1.8,0
+INV-2545,Young-Woods,56,2,238.96,45,Construction,2.8,0
+INV-2546,Garner LLC,10,1,3424.99,60,Construction,3.6,0
+INV-2547,Odonnell and Sons,50,1,4223.54,30,Retail,1.7,0
+INV-2548,Lawrence and Sons,11,1,7875.85,30,Tech,4.1,0
+INV-2549,Gray-Cook,24,2,6972.02,15,Tech,2.1,0
+INV-2550,"Sosa, Weaver and Miller",44,2,10953.47,15,Tech,3.0,0
+INV-2551,Harris-Johnson,8,1,7861.64,60,Healthcare,4.3,0
+INV-2552,"Taylor, Phillips and Murray",42,2,13979.09,45,Healthcare,4.4,0
+INV-2553,Brown-Schneider,58,1,4188.45,15,Consulting,2.0,0
+INV-2554,Cabrera-Wright,1,0,9672.45,45,Tech,4.8,0
+INV-2555,Gibson-Mcdonald,11,0,9584.01,60,Construction,4.0,0
+INV-2556,Ferguson-Hogan,20,1,12375.02,60,Construction,2.1,0
+INV-2557,Stone-Smith,7,3,9307.93,15,Retail,2.5,0
+INV-2558,Lloyd-Miller,44,0,6588.43,30,Construction,1.2,0
+INV-2559,"Brown, Johnson and Alexander",53,0,7631.55,15,Tech,1.1,0
+INV-2560,Evans Inc,9,2,7423.84,45,Tech,3.8,0
+INV-2561,Ramirez-Solomon,1,1,2136.47,15,Tech,3.7,0
+INV-2562,"Long, Ramos and Jimenez",4,1,3996.02,45,Healthcare,3.4,0
+INV-2563,"Chambers, Johnson and Crosby",32,4,5593.27,15,Construction,2.4,1
+INV-2564,Welch-Ruiz,32,6,6090.5,45,Tech,2.5,1
+INV-2565,"Garner, Chan and Morgan",22,0,421.26,15,Healthcare,4.6,0
+INV-2566,"Smith, Bradley and Estes",55,1,14947.47,60,Consulting,4.1,0
+INV-2567,Hughes LLC,12,2,9420.0,30,Retail,1.0,0
+INV-2568,Jackson and Sons,28,2,8694.63,60,Retail,4.5,0
+INV-2569,"Anderson, Avila and Collins",8,1,6124.76,30,Retail,2.5,0
+INV-2570,Gonzalez Ltd,41,4,710.66,15,Retail,2.2,1
+INV-2571,Morris PLC,57,1,9066.67,30,Tech,1.4,0
+INV-2572,"Hawkins, Cohen and Reed",25,3,12369.67,30,Healthcare,3.3,0
+INV-2573,Holmes PLC,31,1,4579.71,45,Retail,3.9,0
+INV-2574,Cantu-Bryant,14,6,12960.7,45,Retail,4.0,1
+INV-2575,"Acevedo, Malone and Compton",12,2,12705.27,15,Retail,1.0,0
+INV-2576,Smith Ltd,16,1,471.41,30,Healthcare,1.5,0
+INV-2577,Brown-Smith,58,1,3338.01,30,Retail,1.1,1
+INV-2578,Whitaker-Martinez,50,1,503.06,45,Retail,3.1,0
+INV-2579,"Ross, Jackson and Jones",16,5,3566.23,15,Healthcare,1.0,1
+INV-2580,Weaver LLC,23,0,7197.34,15,Tech,3.7,0
+INV-2581,Brennan Inc,17,0,1380.13,60,Healthcare,4.3,0
+INV-2582,Arellano PLC,13,1,5097.13,60,Retail,2.1,0
+INV-2583,"Weaver, Wang and Anderson",47,2,11997.9,60,Healthcare,2.8,1
+INV-2584,Lopez-Johnson,11,3,8903.68,30,Construction,3.3,1
+INV-2585,"Schroeder, Alvarez and Wallace",38,2,2828.07,30,Tech,2.2,0
+INV-2586,Sparks-Gonzalez,50,0,14645.98,45,Construction,4.8,0
+INV-2587,"Brown, Barber and Thomas",20,1,6012.09,60,Tech,3.5,0
+INV-2588,Barnett Ltd,19,1,4817.62,15,Consulting,4.6,0
+INV-2589,Watkins-Wilson,32,2,1378.7,30,Construction,3.3,1
+INV-2590,Lyons-Griffin,17,2,12893.31,60,Healthcare,4.6,0
+INV-2591,Fields-Espinoza,40,2,13733.78,60,Retail,4.0,1
+INV-2592,Holland-Lynch,19,1,9729.25,15,Construction,4.1,0
+INV-2593,Ellis-Larson,4,2,9444.04,60,Tech,2.7,0
+INV-2594,"Mills, Pittman and Adams",56,1,4051.13,60,Tech,1.7,0
+INV-2595,Haynes and Sons,22,1,14638.43,30,Consulting,3.5,0
+INV-2596,Peterson Group,33,1,4805.67,15,Healthcare,4.1,0
+INV-2597,Tyler Inc,17,0,3528.47,45,Healthcare,3.2,0
+INV-2598,Powell-Nguyen,8,1,5643.25,60,Construction,1.1,0
+INV-2599,Johnson Inc,13,2,7969.02,45,Healthcare,2.9,0
+INV-2600,Powell LLC,45,0,12353.76,45,Tech,4.7,0
+INV-2601,"Walker, Hobbs and Barton",55,1,2392.38,15,Construction,3.6,0
+INV-2602,Smith-Turner,22,5,1483.87,30,Retail,2.3,1
+INV-2603,Huynh and Sons,34,1,14681.72,45,Retail,3.4,0
+INV-2604,Roberts and Sons,25,2,6358.55,60,Consulting,1.1,0
+INV-2605,Townsend Group,17,1,5350.85,45,Consulting,2.9,0
+INV-2606,Lopez-Johnston,27,2,10868.08,30,Tech,2.0,0
+INV-2607,Moody and Sons,57,0,7341.08,15,Tech,2.4,0
+INV-2608,Lopez-Knight,23,1,2680.8,30,Construction,2.1,0
+INV-2609,"Alvarez, Smith and Bailey",39,4,14857.54,15,Tech,3.7,1
+INV-2610,Carter PLC,22,1,12352.67,60,Construction,3.0,0
+INV-2611,Blake-Hayes,28,1,1791.91,30,Tech,2.8,0
+INV-2612,"Carr, Francis and Henry",41,0,414.17,30,Consulting,1.5,0
+INV-2613,Johnson LLC,24,1,13742.48,45,Construction,4.5,1
+INV-2614,"Gilbert, Schneider and Mejia",13,3,12897.69,15,Construction,2.6,1
+INV-2615,Holt-Johnson,38,2,4013.32,30,Consulting,2.5,0
+INV-2616,Hall-Jones,35,4,5996.66,30,Healthcare,4.7,1
+INV-2617,Luna Group,1,2,513.65,45,Tech,1.9,0
+INV-2618,Payne and Sons,13,1,1159.55,60,Retail,4.1,0
+INV-2619,Jackson-Dickerson,40,1,8171.03,15,Retail,2.0,0
+INV-2620,Bell-Campos,54,4,2216.26,30,Consulting,3.5,1
+INV-2621,Williams Inc,43,3,10804.99,30,Retail,3.4,1
+INV-2622,Murray LLC,40,1,2562.52,60,Retail,1.8,0
+INV-2623,"Burns, Smith and Leach",24,2,10277.74,45,Consulting,4.6,0
+INV-2624,Sandoval Ltd,30,3,8219.83,30,Tech,1.4,1
+INV-2625,Peterson-Bailey,56,4,9187.0,45,Tech,2.7,1
+INV-2626,Travis Ltd,20,1,12935.57,45,Retail,2.9,0
+INV-2627,Moran LLC,19,1,450.44,15,Tech,2.5,0
+INV-2628,Singh Inc,42,0,7237.79,30,Retail,2.3,0
+INV-2629,Melton and Sons,13,4,13852.05,45,Retail,3.7,1
+INV-2630,"Smith, Nguyen and Ellison",55,3,10286.59,45,Healthcare,3.7,1
+INV-2631,"Hernandez, Acosta and Davis",6,0,14324.67,15,Construction,4.7,0
+INV-2632,Campos-Roberts,26,1,5886.07,45,Construction,2.7,0
+INV-2633,"Henry, Stewart and Clark",52,0,9135.16,30,Tech,4.2,0
+INV-2634,Anderson and Sons,48,1,13897.83,60,Healthcare,4.3,0
+INV-2635,"Griffith, White and Shaw",30,1,9932.01,45,Tech,4.5,0
+INV-2636,Wright and Sons,12,3,2484.55,45,Tech,2.0,1
+INV-2637,Nolan-Garcia,3,1,10759.24,30,Healthcare,1.0,0
+INV-2638,Parks-Graham,51,1,4780.33,45,Construction,4.9,0
+INV-2639,Oneill-Medina,43,2,11894.46,30,Tech,2.7,0
+INV-2640,Thomas-Owen,53,2,3155.98,15,Consulting,2.0,0
+INV-2641,Simon-Lamb,15,1,9278.99,60,Consulting,2.4,0
+INV-2642,Dixon-Wilson,30,1,11838.24,15,Tech,2.0,0
+INV-2643,"Schmidt, Bradford and Cervantes",30,3,12476.93,45,Consulting,4.9,0
+INV-2644,"James, Johnson and Martin",16,3,8759.27,30,Consulting,3.8,0
+INV-2645,Campbell Group,38,2,11174.46,15,Healthcare,3.4,0
+INV-2646,"Kim, Vincent and Green",19,2,5827.57,30,Construction,4.3,1
+INV-2647,Wright-Fuentes,21,2,7078.81,15,Tech,5.0,0
+INV-2648,"Allen, Weber and Jackson",47,1,3796.43,45,Construction,4.2,0
+INV-2649,Roberson-Torres,43,1,2130.74,30,Retail,4.9,0
+INV-2650,Chandler Inc,44,4,957.85,45,Healthcare,4.0,1
+INV-2651,"Nelson, Ramirez and Scott",24,1,14544.89,15,Construction,3.4,0
+INV-2652,Gregory PLC,51,0,14600.07,30,Tech,1.6,0
+INV-2653,Moon LLC,18,0,13001.91,15,Construction,3.3,0
+INV-2654,"Hart, Walter and Herring",13,1,14082.22,45,Retail,4.3,0
+INV-2655,"White, Saunders and Davis",15,2,7300.62,15,Retail,4.0,0
+INV-2656,Davidson Ltd,53,2,12612.13,60,Healthcare,1.4,0
+INV-2657,Garza LLC,45,5,6607.92,60,Tech,1.6,1
+INV-2658,"Rice, Smith and Jensen",16,2,2479.44,60,Healthcare,2.1,1
+INV-2659,Stevenson PLC,46,6,6995.56,60,Construction,2.0,1
+INV-2660,"Dougherty, Watkins and Gibson",29,1,6484.54,60,Retail,2.8,1
+INV-2661,Rodriguez-Cabrera,56,1,12017.74,60,Consulting,3.1,0
+INV-2662,Rodriguez-Diaz,50,3,7034.2,30,Tech,4.6,1
+INV-2663,"Potter, Richardson and Fields",48,1,10481.14,60,Retail,4.1,0
+INV-2664,"Murphy, Grant and Hernandez",43,0,9176.58,15,Construction,1.4,0
+INV-2665,Alexander-Gordon,13,1,333.28,15,Construction,1.9,0
+INV-2666,"Waters, Briggs and Mason",37,1,7740.34,45,Retail,4.0,1
+INV-2667,Torres-Estrada,49,0,1175.75,15,Construction,3.1,0
+INV-2668,Mccall-Bowman,47,2,7790.66,30,Healthcare,3.9,0
+INV-2669,Holloway Ltd,26,0,10537.51,30,Retail,4.1,0
+INV-2670,Perez LLC,33,2,11148.99,15,Construction,3.8,1
+INV-2671,Smith LLC,38,0,2073.12,60,Retail,4.3,0
+INV-2672,Ortiz Ltd,35,1,13403.26,60,Tech,1.1,1
+INV-2673,Cox LLC,15,1,11976.46,60,Tech,2.3,0
+INV-2674,"Murray, Kirby and Wolfe",41,0,8527.28,15,Retail,2.9,0
+INV-2675,"Blackwell, Martin and Martinez",52,0,4804.59,45,Tech,2.3,0
+INV-2676,Rodriguez-May,21,2,6643.76,30,Healthcare,2.6,1
+INV-2677,Brown LLC,39,0,5797.28,45,Construction,3.8,0
+INV-2678,"Jimenez, Barber and Hernandez",33,2,14382.12,45,Tech,1.4,1
+INV-2679,Johnson and Sons,15,1,3922.87,15,Retail,2.4,0
+INV-2680,"Wilson, Bailey and Mitchell",59,1,13608.09,60,Consulting,4.6,0
+INV-2681,Berry-Lopez,33,2,10232.46,60,Tech,2.9,0
+INV-2682,Pearson-Gray,44,0,13455.64,15,Construction,4.2,0
+INV-2683,Brewer Ltd,51,2,464.53,15,Healthcare,2.3,0
+INV-2684,Robinson and Sons,30,1,7214.01,15,Construction,1.8,0
+INV-2685,Arroyo PLC,13,2,14450.36,60,Tech,1.1,0
+INV-2686,Mueller-Howell,14,3,5354.46,15,Retail,2.6,1
+INV-2687,Evans and Sons,36,3,1824.79,30,Tech,3.3,1
+INV-2688,Martinez-Davis,20,4,7965.39,45,Retail,3.2,1
+INV-2689,Crawford Group,5,5,2684.97,60,Retail,2.7,1
+INV-2690,Mitchell Inc,1,2,1297.55,45,Healthcare,4.6,0
+INV-2691,Fernandez Group,59,2,9080.21,60,Healthcare,1.7,0
+INV-2692,Riggs Inc,15,2,7163.48,45,Retail,1.2,0
+INV-2693,Burgess Group,13,2,1232.4,60,Tech,2.7,1
+INV-2694,"Edwards, Love and Freeman",7,1,3227.99,45,Healthcare,1.7,0
+INV-2695,"Wheeler, Cordova and Woods",39,2,5422.58,45,Tech,1.6,1
+INV-2696,"Hess, Lee and Carter",49,1,6947.56,60,Retail,1.3,0
+INV-2697,Holloway-Hart,54,0,2098.5,45,Healthcare,1.9,0
+INV-2698,Santiago Group,48,5,2928.65,60,Construction,2.8,1
+INV-2699,Harris-Turner,39,2,9958.75,30,Construction,2.3,0
+INV-2700,Wolf-Baker,41,3,4419.97,15,Tech,1.8,0
+INV-2701,"Moore, Reid and Hartman",20,3,6944.89,15,Retail,1.7,1
+INV-2702,Ramirez-West,4,1,9137.39,45,Consulting,1.6,0
+INV-2703,Larson PLC,13,2,3088.58,60,Consulting,1.7,0
+INV-2704,Gonzalez-Hogan,20,0,11331.42,30,Consulting,1.3,0
+INV-2705,Miller Group,21,0,6511.37,15,Healthcare,3.4,0
+INV-2706,Cobb and Sons,10,1,11336.6,60,Consulting,1.1,0
+INV-2707,Turner PLC,21,1,6236.33,60,Consulting,3.8,0
+INV-2708,"Cox, Holmes and Barry",45,1,9757.7,30,Healthcare,1.5,0
+INV-2709,Pena-Campbell,5,1,3366.22,45,Retail,1.0,0
+INV-2710,Fowler-Lopez,15,1,6749.14,60,Retail,3.0,0
+INV-2711,Johnson LLC,9,2,3455.87,30,Retail,1.0,0
+INV-2712,Gomez-Clark,21,2,5777.47,60,Tech,3.8,0
+INV-2713,Hill and Sons,58,1,11501.98,30,Tech,1.4,0
+INV-2714,Terry Inc,26,1,14218.1,30,Tech,3.4,0
+INV-2715,Becker Inc,51,2,9736.61,15,Healthcare,4.0,0
+INV-2716,"Ayala, Thornton and Mosley",35,1,14243.18,15,Healthcare,3.5,0
+INV-2717,Young and Sons,20,1,6238.27,30,Tech,1.4,0
+INV-2718,Thompson LLC,9,2,13886.26,45,Construction,4.4,0
+INV-2719,Noble-Mckenzie,21,0,14432.67,15,Retail,3.2,0
+INV-2720,"Peters, Richardson and Stevens",16,4,12848.19,60,Consulting,2.9,1
+INV-2721,Dickson-Green,30,0,2158.49,60,Consulting,3.7,0
+INV-2722,Martin-Castaneda,50,1,7614.35,45,Construction,2.5,0
+INV-2723,Peters-Ryan,29,2,12248.19,60,Retail,3.4,1
+INV-2724,Brown Ltd,34,1,10159.18,60,Retail,2.7,0
+INV-2725,"Norris, Carrillo and Davis",18,2,1174.46,60,Tech,3.5,0
+INV-2726,Barker-Marshall,17,3,12536.39,30,Consulting,2.6,1
+INV-2727,Johnson PLC,38,2,1021.16,15,Retail,2.1,0
+INV-2728,Bates-Rivers,2,1,2792.99,15,Construction,3.8,0
+INV-2729,"Hall, Torres and Smith",44,0,1179.3,45,Healthcare,1.9,0
+INV-2730,Rodriguez-Hopkins,19,4,7522.41,45,Healthcare,2.2,1
+INV-2731,"Mason, Pena and Fowler",53,1,284.67,60,Consulting,3.6,0
+INV-2732,Evans-Morgan,8,1,9375.5,60,Retail,3.1,0
+INV-2733,"Avila, Taylor and Bender",2,1,575.5,30,Construction,4.0,1
+INV-2734,"Burnett, Taylor and Sanchez",49,0,13863.49,60,Tech,4.2,0
+INV-2735,"Tran, Bray and Smith",20,1,11672.16,60,Retail,2.7,0
+INV-2736,"Vargas, Kim and Burnett",7,0,8953.17,60,Construction,4.4,0
+INV-2737,Saunders Ltd,53,1,4936.16,30,Retail,2.4,0
+INV-2738,Robertson-Morris,3,4,4056.23,60,Construction,3.2,1
+INV-2739,"Wagner, Roberson and Collins",34,2,7383.51,45,Retail,2.4,0
+INV-2740,Miller Ltd,30,0,2412.73,45,Construction,3.3,0
+INV-2741,George PLC,55,1,2549.62,45,Construction,4.7,0
+INV-2742,Williams-Johnston,58,3,8626.16,60,Retail,3.8,1
+INV-2743,Collier-Simpson,58,1,759.19,30,Tech,1.2,0
+INV-2744,"Coleman, Graham and Gregory",57,1,1239.51,45,Healthcare,3.8,0
+INV-2745,Hanna and Sons,7,3,8548.46,45,Construction,3.1,0
+INV-2746,Kennedy-Weeks,28,2,8262.84,60,Consulting,1.6,1
+INV-2747,Mullins-Johnson,18,1,10201.05,15,Tech,4.8,0
+INV-2748,Horne LLC,15,2,3063.44,60,Tech,4.6,0
+INV-2749,"Brown, Ramos and Williams",49,1,8583.71,60,Healthcare,1.6,0
+INV-2750,Young and Sons,57,0,10660.93,45,Retail,3.0,0
+INV-2751,"Hunter, Torres and Reid",13,2,13877.39,30,Retail,4.1,0
+INV-2752,Hobbs PLC,59,2,14147.56,45,Consulting,2.8,0
+INV-2753,"Hernandez, Alvarado and Thomas",54,1,541.67,60,Tech,1.5,0
+INV-2754,Mckay Group,33,1,9013.09,15,Tech,2.8,0
+INV-2755,Howard and Sons,34,2,12946.49,30,Tech,4.3,0
+INV-2756,James LLC,37,1,1411.55,15,Tech,2.2,0
+INV-2757,"Fisher, Smith and Woods",21,2,4643.36,15,Healthcare,3.1,0
+INV-2758,Mcbride-Mendez,36,2,1105.34,15,Construction,1.6,0
+INV-2759,Allen-Reyes,45,3,6865.77,30,Construction,3.6,0
+INV-2760,"Johnson, Carroll and Hughes",45,3,8142.11,45,Healthcare,4.8,1
+INV-2761,"Scott, Price and Hubbard",51,3,5560.25,60,Retail,3.9,1
+INV-2762,Day LLC,15,2,13486.9,15,Tech,3.1,1
+INV-2763,Howard-Harris,3,2,13937.61,45,Healthcare,3.1,0
+INV-2764,Sanchez-Lee,32,1,14357.0,60,Tech,2.5,0
+INV-2765,"Smith, Ortiz and Salas",43,3,12798.98,60,Consulting,4.1,1
+INV-2766,"Miller, Conner and Cooper",56,4,3988.58,45,Construction,3.6,1
+INV-2767,"Hanna, Perez and Carter",6,1,11617.98,30,Construction,1.1,0
+INV-2768,"King, Jones and Allen",32,0,2567.45,15,Construction,1.1,0
+INV-2769,"Miller, Salazar and Miller",16,2,12514.2,15,Healthcare,2.2,1
+INV-2770,Stanley-Carlson,11,1,14395.14,15,Tech,1.3,1
+INV-2771,Sosa PLC,3,2,1112.87,30,Tech,1.8,0
+INV-2772,Hensley-Mcbride,48,2,3315.98,30,Tech,2.4,1
+INV-2773,Wilson-Rush,31,1,2785.55,45,Healthcare,2.3,0
+INV-2774,Harrison Inc,31,5,10075.22,15,Retail,2.1,1
+INV-2775,Norris-Johnson,44,1,9413.87,60,Tech,1.8,1
+INV-2776,Anderson LLC,47,2,14128.88,30,Consulting,1.9,1
+INV-2777,Sanchez Inc,22,1,6674.84,15,Tech,2.0,0
+INV-2778,Berger PLC,29,0,5879.85,45,Consulting,1.6,0
+INV-2779,Burton-Travis,53,2,976.88,45,Construction,2.7,1
+INV-2780,Becker-King,31,1,1708.62,60,Healthcare,3.0,0
+INV-2781,Wilson PLC,58,2,6714.13,45,Healthcare,4.2,1
+INV-2782,Mccoy-Hernandez,49,3,7028.74,45,Tech,2.9,1
+INV-2783,Zuniga-Schneider,6,1,2730.96,60,Construction,2.7,0
+INV-2784,"Salinas, Lawson and Gray",27,1,14448.78,60,Consulting,2.4,0
+INV-2785,"Frazier, Cox and Francis",11,3,14296.28,15,Retail,1.1,0
+INV-2786,"Lucero, Church and Romero",32,2,12351.87,45,Consulting,3.2,0
+INV-2787,"Young, Reese and King",36,2,14003.69,45,Construction,2.1,0
+INV-2788,Best-Lowery,47,3,13028.47,15,Healthcare,2.7,1
+INV-2789,Rodriguez LLC,32,0,13219.86,15,Construction,1.8,0
+INV-2790,Simon LLC,39,1,9268.29,45,Construction,1.9,0
+INV-2791,"Roberts, Barnett and Mendoza",53,1,365.75,45,Construction,2.8,0
+INV-2792,Chavez-Davis,49,1,5345.45,45,Tech,1.5,0
+INV-2793,"Johnson, Thompson and Reed",25,1,10685.48,30,Consulting,1.3,0
+INV-2794,Simmons-Jensen,32,1,1066.73,30,Retail,1.6,0
+INV-2795,"Bradshaw, Morris and Swanson",52,1,14216.9,60,Construction,3.4,0
+INV-2796,Compton Group,50,0,10330.23,30,Retail,1.1,0
+INV-2797,Kerr and Sons,59,0,12586.48,60,Construction,1.1,0
+INV-2798,Alexander-Salas,35,1,13870.6,45,Healthcare,2.4,0
+INV-2799,Murphy Inc,34,0,12915.9,60,Healthcare,2.6,0
+INV-2800,Haney PLC,58,4,1908.33,15,Consulting,2.8,1
+INV-2801,Burton Group,37,1,4253.3,30,Construction,3.4,0
+INV-2802,"Thomas, Brown and Goodman",8,0,2084.33,30,Consulting,4.1,0
+INV-2803,Yang-Richard,4,2,10989.4,60,Construction,2.7,0
+INV-2804,Riley-Zavala,48,1,3440.91,45,Tech,3.3,0
+INV-2805,Rose-Best,28,3,3571.45,30,Construction,1.8,0
+INV-2806,English-Washington,2,1,474.51,15,Healthcare,3.9,0
+INV-2807,Gomez-Brown,25,3,2712.93,30,Construction,3.6,0
+INV-2808,Reynolds-Hanson,22,1,11048.76,30,Construction,2.1,0
+INV-2809,"Moore, Crosby and Jennings",39,2,12625.59,15,Tech,3.4,0
+INV-2810,Barnes Group,5,3,11914.03,45,Tech,1.4,1
+INV-2811,Richard Group,45,2,11416.3,45,Healthcare,3.1,1
+INV-2812,"Allen, Warren and Perry",15,1,6804.68,45,Construction,3.8,0
+INV-2813,Schwartz-Day,4,2,5083.55,45,Consulting,4.2,0
+INV-2814,Weber Group,45,2,7538.43,45,Healthcare,4.7,0
+INV-2815,"Goodwin, Jenkins and Watson",27,0,4630.33,15,Healthcare,4.8,0
+INV-2816,"Thomas, Durham and Conley",17,3,462.03,15,Consulting,4.4,1
+INV-2817,Miller Inc,39,2,5591.5,15,Healthcare,1.9,0
+INV-2818,Norman Group,44,2,1401.58,30,Consulting,3.5,1
+INV-2819,"Sanchez, Howard and Thomas",17,1,9746.46,15,Healthcare,4.4,0
+INV-2820,Moreno-Brown,11,0,3389.13,45,Healthcare,5.0,0
+INV-2821,"Wagner, Copeland and Edwards",52,3,1904.43,15,Tech,2.7,0
+INV-2822,"Huynh, Kelly and Phillips",15,2,6160.44,30,Tech,2.4,1
+INV-2823,Lewis-Hudson,29,4,5345.0,45,Healthcare,4.9,1
+INV-2824,"Rodriguez, Carrillo and Davila",51,1,14990.16,60,Tech,2.2,0
+INV-2825,"Smith, Castro and Monroe",36,2,14244.25,45,Tech,3.0,1
+INV-2826,Perry LLC,59,1,9053.92,15,Healthcare,4.4,0
+INV-2827,Marsh-Roberts,3,1,10697.99,45,Tech,4.4,0
+INV-2828,Potter-Martinez,36,3,5644.96,45,Retail,2.3,1
+INV-2829,Jones-Young,48,2,13538.12,15,Healthcare,1.5,0
+INV-2830,Hernandez Inc,32,1,9750.9,45,Tech,3.2,0
+INV-2831,Campbell Inc,25,0,12189.03,30,Consulting,2.9,0
+INV-2832,Gentry PLC,1,1,836.43,30,Healthcare,1.5,0
+INV-2833,Wolfe and Sons,55,4,12941.77,15,Tech,4.3,1
+INV-2834,"Sanchez, Morgan and Simmons",8,1,5193.41,60,Healthcare,1.5,0
+INV-2835,Ford Ltd,1,1,11364.76,60,Healthcare,2.1,0
+INV-2836,"Olson, Nielsen and Gonzalez",7,2,13584.13,60,Healthcare,1.5,1
+INV-2837,Vasquez Ltd,54,1,3910.83,15,Retail,4.6,0
+INV-2838,Long-Day,31,2,5159.63,30,Construction,4.5,1
+INV-2839,Gutierrez Ltd,53,2,13117.39,15,Construction,4.2,1
+INV-2840,Davis LLC,18,0,10570.43,30,Retail,2.0,0
+INV-2841,Pena-Weber,27,2,2673.08,15,Tech,1.1,0
+INV-2842,"Davis, Fitzgerald and Osborne",21,4,3418.44,30,Construction,4.7,1
+INV-2843,Mora-Smith,32,0,8366.33,45,Tech,2.1,0
+INV-2844,Howard Group,36,3,4300.27,15,Healthcare,2.9,1
+INV-2845,Montes Group,8,3,5840.42,45,Tech,3.5,0
+INV-2846,Poole PLC,38,2,12372.28,15,Retail,3.0,0
+INV-2847,Harrison Inc,10,1,12258.92,45,Construction,2.4,0
+INV-2848,Morris-Fisher,46,3,1004.62,60,Consulting,1.7,1
+INV-2849,Lynch-Porter,44,3,845.2,45,Healthcare,2.2,1
+INV-2850,"Turner, Bennett and Phelps",36,2,5183.24,30,Construction,1.6,0
+INV-2851,"Williams, Fields and Palmer",50,1,1914.54,60,Construction,3.3,0
+INV-2852,Baker Inc,40,0,2630.77,30,Tech,1.9,0
+INV-2853,"Velasquez, Jordan and Davis",29,1,11389.86,60,Retail,1.4,0
+INV-2854,"Malone, Nichols and Elliott",44,1,4427.84,30,Tech,4.5,0
+INV-2855,Pearson PLC,7,0,5314.6,30,Tech,1.6,1
+INV-2856,Brandt-Ibarra,34,2,3987.07,15,Consulting,1.8,0
+INV-2857,Estes-Diaz,34,1,6160.75,30,Retail,1.3,0
+INV-2858,"Wood, Mcmahon and Ingram",34,2,11348.24,45,Retail,4.0,0
+INV-2859,"Trujillo, Li and Hicks",1,0,10710.15,60,Construction,1.8,0
+INV-2860,"Harris, Hansen and Arnold",53,3,13208.21,15,Consulting,4.3,1
+INV-2861,Booker Ltd,19,1,14917.58,15,Retail,1.2,1
+INV-2862,Chambers-Fields,21,0,833.19,15,Retail,2.0,0
+INV-2863,King-Thompson,45,2,14050.9,15,Healthcare,4.5,0
+INV-2864,Erickson Group,54,4,8566.28,60,Healthcare,2.0,1
+INV-2865,Coleman-Rodriguez,17,6,470.37,15,Consulting,4.5,1
+INV-2866,"Kim, Goodman and Meyer",5,0,2569.42,45,Healthcare,2.5,0
+INV-2867,Silva LLC,49,5,6561.87,30,Tech,3.6,1
+INV-2868,Williams-Brandt,45,4,11433.97,15,Construction,1.3,1
+INV-2869,Johnson-Lang,40,3,10944.34,60,Retail,1.2,1
+INV-2870,Miller LLC,36,2,11395.39,45,Consulting,2.7,1
+INV-2871,"Murphy, Mccann and Herrera",13,1,11398.02,30,Healthcare,2.2,0
+INV-2872,Kim Ltd,48,3,12128.1,15,Consulting,1.5,1
+INV-2873,Kelly-Alexander,22,0,6920.02,15,Construction,4.2,0
+INV-2874,Humphrey Inc,42,6,1646.01,15,Retail,3.5,1
+INV-2875,"Glover, Parsons and Gutierrez",57,1,13564.42,60,Tech,4.3,0
+INV-2876,Obrien-Rodriguez,30,3,14321.13,30,Construction,4.6,1
+INV-2877,"Galvan, Graham and Tucker",14,2,13677.07,30,Construction,1.1,1
+INV-2878,Prince Group,32,2,1402.93,60,Construction,1.1,1
+INV-2879,"Braun, Davis and Escobar",20,1,7124.37,30,Retail,1.1,1
+INV-2880,Brennan-Roberts,23,3,12873.23,60,Tech,3.0,1
+INV-2881,Hall and Sons,7,0,12775.02,60,Construction,4.8,0
+INV-2882,Long LLC,20,1,6089.77,30,Retail,3.7,0
+INV-2883,Allen-Woods,13,0,13456.64,15,Retail,3.8,0
+INV-2884,Watson PLC,26,3,6149.73,15,Consulting,4.8,0
+INV-2885,"Moreno, Wade and Dyer",46,2,13810.13,60,Tech,4.7,0
+INV-2886,"Ward, Perez and Newton",44,0,910.43,15,Consulting,3.3,0
+INV-2887,Weaver-Rodriguez,38,1,14695.42,15,Retail,2.2,0
+INV-2888,Woodward-Roberson,42,1,12878.46,45,Tech,3.4,1
+INV-2889,Rodriguez-Hughes,32,0,2606.9,60,Construction,2.6,0
+INV-2890,Collins-Walker,48,5,2980.77,45,Healthcare,2.0,1
+INV-2891,"Pierce, Andrews and Hendrix",41,1,8327.5,15,Retail,3.9,0
+INV-2892,Gonzales-Vega,18,1,1939.79,30,Retail,4.4,0
+INV-2893,"Hall, Long and Morse",10,5,3103.99,45,Construction,3.2,1
+INV-2894,Hunter and Sons,24,2,6768.43,45,Healthcare,2.0,1
+INV-2895,Miller LLC,25,1,12936.95,15,Retail,2.8,0
+INV-2896,Bryant PLC,5,3,1728.74,15,Retail,3.3,0
+INV-2897,"Ramirez, Green and Richmond",23,1,11665.88,30,Tech,4.8,0
+INV-2898,"Friedman, Gonzalez and Campbell",5,3,660.81,45,Construction,4.9,0
+INV-2899,Sawyer LLC,22,1,1384.48,60,Consulting,2.0,0
+INV-2900,Osborn-Powell,15,0,1776.37,45,Retail,1.5,0
+INV-2901,Lawson Ltd,31,5,9439.5,45,Construction,1.3,1
+INV-2902,Cruz-Hobbs,43,3,10201.03,30,Retail,4.2,1
+INV-2903,Knight-Hernandez,14,2,4777.18,60,Healthcare,3.0,0
+INV-2904,Romero-Fuentes,24,3,3726.28,60,Construction,4.4,0
+INV-2905,Rodriguez-Smith,34,3,9234.1,60,Healthcare,3.9,1
+INV-2906,Mcclure-Brewer,17,2,4310.91,60,Tech,2.3,1
+INV-2907,Jones Inc,9,1,6184.75,15,Tech,1.9,0
+INV-2908,Marshall and Sons,27,4,13972.32,15,Tech,2.7,1
+INV-2909,Callahan-Newman,18,0,6385.18,15,Healthcare,2.0,0
+INV-2910,Caldwell and Sons,9,2,8308.49,60,Consulting,1.1,1
+INV-2911,"Ramirez, Zavala and Freeman",7,1,3182.41,60,Tech,4.2,0
+INV-2912,"Dyer, Anderson and Ochoa",28,2,8328.92,60,Construction,2.1,0
+INV-2913,Fuller Inc,55,2,5230.46,15,Tech,4.6,0
+INV-2914,Marshall-Huffman,26,2,14695.87,60,Healthcare,4.2,1
+INV-2915,Zimmerman-Franco,36,6,13454.63,15,Healthcare,1.9,1
+INV-2916,Garcia Inc,10,4,6917.03,60,Retail,3.4,1
+INV-2917,"Lopez, Pugh and Russell",37,1,11975.49,15,Construction,3.5,0
+INV-2918,Mueller-Morales,57,1,1887.94,45,Retail,2.4,0
+INV-2919,Russell LLC,1,1,8892.9,30,Construction,2.8,0
+INV-2920,"Livingston, Martinez and Simpson",58,0,7211.99,15,Healthcare,3.6,0
+INV-2921,Williams-Miller,49,2,12088.23,30,Healthcare,1.9,0
+INV-2922,"Miller, Mcdonald and Mendoza",28,0,1349.19,45,Healthcare,2.6,0
+INV-2923,Garcia PLC,33,2,9258.33,30,Consulting,2.5,0
+INV-2924,Fisher-Sellers,54,2,5602.76,15,Retail,4.5,1
+INV-2925,West-Smith,51,1,12181.89,30,Consulting,3.2,0
+INV-2926,"Mitchell, Duran and Walton",21,2,1275.7,60,Healthcare,3.9,0
+INV-2927,Mendoza PLC,52,0,13610.45,30,Retail,1.8,0
+INV-2928,Barr-Dawson,6,2,6855.26,60,Construction,4.2,0
+INV-2929,Thompson Inc,26,2,9947.61,30,Construction,4.9,0
+INV-2930,Wood PLC,17,0,13493.71,45,Retail,3.3,0
+INV-2931,Armstrong Group,31,1,7918.03,30,Consulting,4.4,0
+INV-2932,Allen-Alvarado,10,1,10300.69,60,Healthcare,1.4,0
+INV-2933,"King, Nelson and Page",25,1,5174.41,30,Retail,2.5,0
+INV-2934,"Wilcox, Patrick and Torres",48,1,8344.37,60,Healthcare,2.1,0
+INV-2935,Smith-White,36,1,687.03,60,Retail,3.4,0
+INV-2936,Taylor PLC,46,3,984.0,60,Healthcare,4.4,0
+INV-2937,"Green, Cooper and Jimenez",40,2,5746.31,45,Retail,1.0,0
+INV-2938,James PLC,33,1,8504.43,60,Retail,3.1,0
+INV-2939,Parker PLC,55,2,2695.33,15,Healthcare,4.2,0
+INV-2940,"Thomas, Orr and Rodriguez",49,0,13875.71,60,Retail,1.3,0
+INV-2941,"Martin, Ray and Cole",43,0,13293.92,15,Retail,4.3,0
+INV-2942,Holloway-Johnson,9,2,14850.04,45,Consulting,1.9,0
+INV-2943,Brennan-Wu,4,2,5819.26,30,Healthcare,4.6,0
+INV-2944,"Whitney, Gonzales and Roy",10,2,3994.99,45,Construction,4.6,1
+INV-2945,"Love, Ortiz and Fowler",19,1,4812.91,15,Tech,2.2,0
+INV-2946,Gonzalez and Sons,47,2,7675.73,60,Construction,4.8,0
+INV-2947,Mcdonald Inc,8,4,383.35,60,Construction,2.6,1
+INV-2948,Boyd-Michael,10,0,14556.85,60,Retail,2.7,0
+INV-2949,"Booth, Crawford and Marshall",4,1,10569.08,15,Tech,3.6,0
+INV-2950,Davis and Sons,29,4,1762.52,15,Construction,1.8,1
+INV-2951,Simmons PLC,31,5,9824.55,45,Construction,1.5,1
+INV-2952,Boone PLC,37,0,3072.0,45,Retail,3.6,0
+INV-2953,"Adams, Copeland and Roberts",42,2,7352.08,15,Tech,4.2,0
+INV-2954,Mcclure Inc,8,2,5031.8,60,Tech,1.3,0
+INV-2955,"Greer, Phillips and Smith",33,1,12645.16,60,Retail,1.2,0
+INV-2956,Tucker-Bonilla,35,1,13693.96,45,Consulting,4.0,0
+INV-2957,Austin-Jimenez,33,1,11271.2,30,Tech,1.4,0
+INV-2958,Martin-Cunningham,15,2,11384.51,15,Healthcare,2.8,1
+INV-2959,Simmons LLC,25,1,5851.3,30,Healthcare,3.3,0
+INV-2960,Anthony Ltd,40,0,8125.78,30,Construction,1.9,0
+INV-2961,Ramirez-Osborne,1,1,3008.84,15,Healthcare,1.7,1
+INV-2962,"Brown, Carr and Melendez",42,0,14571.87,15,Consulting,4.9,0
+INV-2963,Miller-Green,36,1,2842.58,15,Healthcare,1.0,0
+INV-2964,"Gonzalez, Stark and Moore",34,2,14672.86,60,Consulting,2.7,0
+INV-2965,Perez-Martin,59,2,7860.64,30,Healthcare,4.4,0
+INV-2966,"Schwartz, Duffy and Wells",24,1,13320.65,15,Consulting,3.2,0
+INV-2967,Williams-Johnson,50,1,2114.84,15,Consulting,3.0,0
+INV-2968,"Strickland, Bell and Barron",13,1,290.1,60,Consulting,3.0,0
+INV-2969,Richardson and Sons,15,2,8484.43,60,Consulting,2.4,0
+INV-2970,"Alvarez, Farmer and Wilson",33,1,4475.53,30,Consulting,1.7,0
+INV-2971,Liu LLC,6,1,5035.3,30,Tech,4.0,0
+INV-2972,Weeks Ltd,23,2,5088.6,15,Healthcare,3.7,0
+INV-2973,White LLC,15,0,6932.67,45,Consulting,4.2,0
+INV-2974,Jenkins-Ewing,39,1,1158.63,60,Healthcare,4.0,0
+INV-2975,Morales-Bowman,35,2,7840.22,30,Construction,3.8,0
+INV-2976,Martin-Kramer,34,0,1297.75,60,Construction,5.0,0
+INV-2977,Jones-Martin,47,2,2964.76,45,Healthcare,3.6,1
+INV-2978,Rice Ltd,54,1,7129.62,30,Tech,2.0,0
+INV-2979,Brewer-Gillespie,51,1,7841.83,60,Consulting,4.2,0
+INV-2980,Johnson Ltd,14,1,13111.72,45,Consulting,3.5,0
+INV-2981,"Torres, Murphy and Kelly",14,2,8956.7,45,Consulting,1.1,1
+INV-2982,Villanueva Ltd,30,1,5096.83,30,Tech,4.8,0
+INV-2983,Stephens LLC,30,0,8786.61,30,Consulting,3.6,0
+INV-2984,Kelley-Diaz,45,1,1364.52,45,Construction,2.7,0
+INV-2985,"Wagner, Austin and Krause",29,1,490.56,30,Tech,3.9,0
+INV-2986,Randall-Beasley,9,1,14877.37,45,Retail,2.2,1
+INV-2987,"Ryan, Ferguson and Welch",11,1,5861.03,45,Consulting,2.6,1
+INV-2988,Dixon-Hutchinson,1,3,1080.99,60,Consulting,3.3,1
+INV-2989,Gibson PLC,19,1,5665.95,60,Consulting,1.4,0
+INV-2990,Hunt-Dunlap,56,1,12068.42,45,Healthcare,4.7,0
+INV-2991,Harvey-Carlson,3,0,9591.34,15,Consulting,3.7,0
+INV-2992,"Thornton, Stanley and Soto",3,4,6501.27,15,Retail,1.3,1
+INV-2993,Wilson LLC,33,1,7167.25,60,Tech,2.6,0
+INV-2994,"Johnson, Pitts and Madden",42,1,9062.74,15,Retail,4.7,0
+INV-2995,Yates-Jackson,3,0,4063.79,30,Construction,2.1,0
+INV-2996,"Simmons, Medina and Johnson",10,4,10871.11,30,Construction,3.6,1
+INV-2997,Wall-Trevino,36,1,5509.67,45,Tech,4.7,0
+INV-2998,Sanders PLC,9,0,4446.17,15,Construction,2.3,0
+INV-2999,"Jenkins, Elliott and Sullivan",43,1,10884.26,30,Consulting,4.2,0
