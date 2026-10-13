@@ -30,6 +30,9 @@ streamlit run app.py
 ## Tech stack
 Python, Pandas, scikit-learn, Streamlit, Faker
 
+## Live Demo
+https://payguard-akshaya.streamlit.app/
+
 ## Future improvements
 - Connect to real accounting data (QuickBooks / Xero exports)
 - Automatic email reminders for high-risk invoices
