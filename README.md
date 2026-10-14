@@ -18,8 +18,8 @@ probability of late payment, so finance teams can follow up early.
 ## Approach
 - Simulated a realistic dataset of 2,000 invoices (no public dataset exists)
 - Trained a Random Forest classifier with class balancing
-- F1-score on unseen test data: [0.71]
-- Top risk factors: [past late payments, invoice amount, client rating]
+- F1-score on unseen test data: 0.71 (recall 0.84)
+- Top risk factors: past late payments, invoice amount, client rating
 
 ## How to run
 pip install -r requirements.txt
